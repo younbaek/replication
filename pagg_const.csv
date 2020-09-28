@@ -1,0 +1,760 @@
+uid,province,district,name,electionday,pre,abroad,dis,cons,NVoters,NValid,Votes,isprevote,type,isabroad,isdisab,constit
+1324,1,jungguyeongdogu_junggu,donggwangdongjei1tu,1,0,0,0,Busan_1,142819,52241,29488,FALSE,p,FALSE,FALSE,Busan_1
+1306,1,jungguyeongdogu_yeongdogu,prevote_in,0,1,0,0,Busan_1,142819,39070,17919,TRUE,p,FALSE,FALSE,Busan_1
+1316,1,jungguyeongdogu_junggu,abroad,0,0,1,0,Busan_1,142,50,8,FALSE,d,TRUE,FALSE,Busan_1
+1420,1,haeundaegugab,jwajei4dongjei1tu,1,0,0,0,Busan_10,190271,82876,53534,FALSE,p,FALSE,FALSE,Busan_10
+1404,1,haeundaegugab,prevote_in,0,1,0,0,Busan_10,190271,49689,25361,TRUE,p,FALSE,FALSE,Busan_10
+1367,1,haeundaegugab,abroad,0,0,1,0,Busan_10,926,210,76,FALSE,d,TRUE,FALSE,Busan_10
+1493,1,haeundaegueul,bansongjei2dongjei7tu,1,0,0,0,Busan_11,154228,64098,36711,FALSE,p,FALSE,FALSE,Busan_11
+1471,1,haeundaegueul,prevote_in,0,1,0,0,Busan_11,154228,37735,17153,TRUE,p,FALSE,FALSE,Busan_11
+1445,1,haeundaegueul,abroad,0,0,1,0,Busan_11,402,108,34,FALSE,d,TRUE,FALSE,Busan_11
+873,1,sahagugab,hadanjei2dongjei3tu,1,0,0,0,Busan_12,119941,50464,23013,FALSE,p,FALSE,FALSE,Busan_12
+830,1,sahagugab,prevote_in,0,1,0,0,Busan_12,119941,29149,16772,TRUE,p,FALSE,FALSE,Busan_12
+827,1,sahagugab,abroad,0,0,1,0,Busan_12,322,104,81,FALSE,d,TRUE,FALSE,Busan_12
+942,1,sahagueul,gamcheonjei1dongjei2tu,1,0,0,0,Busan_13,156809,65160,40900,FALSE,p,FALSE,FALSE,Busan_13
+887,1,sahagueul,prevote_in,0,1,0,0,Busan_13,156809,35156,18111,TRUE,p,FALSE,FALSE,Busan_13
+884,1,sahagueul,abroad,0,0,1,0,Busan_13,357,102,30,FALSE,d,TRUE,FALSE,Busan_13
+66,1,geumjeonggu,jangjeonjei2dongjei4tu,1,0,0,0,Busan_14,209341,85817,50465,FALSE,p,FALSE,FALSE,Busan_14
+93,1,geumjeonggu,prevote_in,0,1,0,0,Busan_14,209341,56154,26537,TRUE,p,FALSE,FALSE,Busan_14
+15,1,geumjeonggu,abroad,0,0,1,0,Busan_14,737,200,45,FALSE,d,TRUE,FALSE,Busan_14
+1163,1,yeonjeigu,geojeijei1dongjei1tu,1,0,0,0,Busan_15,181639,79983,44390,FALSE,p,FALSE,FALSE,Busan_15
+1212,1,yeonjeigu,prevote_in,0,1,0,0,Busan_15,181639,46726,20206,TRUE,p,FALSE,FALSE,Busan_15
+1159,1,yeonjeigu,abroad,0,0,1,0,Busan_15,509,153,43,FALSE,d,TRUE,FALSE,Busan_15
+1104,1,suyeonggu,suyeongdongjei1tu,1,0,0,0,Busan_16,156454,63834,38826,FALSE,p,FALSE,FALSE,Busan_16
+1136,1,suyeonggu,prevote_in,0,1,0,0,Busan_16,156454,39612,19084,TRUE,p,FALSE,FALSE,Busan_16
+1089,1,suyeonggu,abroad,0,0,1,0,Busan_16,654,167,44,FALSE,d,TRUE,FALSE,Busan_16
+778,1,sasanggu,gamjeondongjei2tu,1,0,0,0,Busan_17,191230,78255,42770,FALSE,p,FALSE,FALSE,Busan_17
+734,1,sasanggu,prevote_out,0,1,0,0,Busan_17,191230,49123,23546,TRUE,d,FALSE,FALSE,Busan_17
+735,1,sasanggu,abroad,0,0,1,0,Busan_17,421,134,36,FALSE,d,TRUE,FALSE,Busan_17
+145,1,gijanggun,ilgwangmyeonjei1tu,1,0,0,0,Busan_18,133938,59050,30877,FALSE,p,FALSE,FALSE,Busan_18
+116,1,gijanggun,prevote_out,0,1,0,0,Busan_18,133938,26771,11739,TRUE,d,FALSE,FALSE,Busan_18
+117,1,gijanggun,abroad,0,0,1,0,Busan_18,354,71,17,FALSE,d,TRUE,FALSE,Busan_18
+967,1,seogudonggu_donggu,choryangjei2dongjei1tu,1,0,0,0,Busan_2,177047,65286,39571,FALSE,p,FALSE,FALSE,Busan_2
+1048,1,seogudonggu_seogu,prevote_in,0,1,0,0,Busan_2,177047,48521,24247,TRUE,p,FALSE,FALSE,Busan_2
+959,1,seogudonggu_donggu,abroad,0,0,1,0,Busan_2,209,57,12,FALSE,d,TRUE,FALSE,Busan_2
+444,1,busanjingugab,buamjei1dongjei3tu,1,0,0,0,Busan_3,156429,65230,34492,FALSE,p,FALSE,FALSE,Busan_3
+461,1,busanjingugab,prevote_in,0,1,0,0,Busan_3,156429,41873,17515,TRUE,p,FALSE,FALSE,Busan_3
+405,1,busanjingugab,abroad,0,0,1,0,Busan_3,410,147,30,FALSE,d,TRUE,FALSE,Busan_3
+488,1,busanjingueul,jeonpojei1dongjei4tu,1,0,0,0,Busan_4,158302,61382,36685,FALSE,p,FALSE,FALSE,Busan_4
+516,1,busanjingueul,prevote_in,0,1,0,0,Busan_4,158302,39824,19042,TRUE,p,FALSE,FALSE,Busan_4
+476,1,busanjingueul,abroad,0,0,1,0,Busan_4,358,98,25,FALSE,d,TRUE,FALSE,Busan_4
+377,1,dongraegu,anragjei2dongjei1tu,1,0,0,0,Busan_5,231808,100010,56432,FALSE,p,FALSE,FALSE,Busan_5
+331,1,dongraegu,prevote_in,0,1,0,0,Busan_5,231808,57364,25224,TRUE,p,FALSE,FALSE,Busan_5
+307,1,dongraegu,abroad,0,0,1,0,Busan_5,787,205,63,FALSE,d,TRUE,FALSE,Busan_5
+237,1,namgugab,munhyeonjei4dongjei1tu,1,0,0,0,Busan_6,120116,48598,28271,FALSE,p,FALSE,FALSE,Busan_6
+209,1,namgugab,prevote_in,0,1,0,0,Busan_6,120116,33061,15516,TRUE,p,FALSE,FALSE,Busan_6
+183,1,namgugab,abroad,0,0,1,0,Busan_6,330,105,18,FALSE,d,TRUE,FALSE,Busan_6
+275,1,namgueul,yonghojei1dongjei5tu,1,0,0,0,Busan_7,114380,49525,26496,FALSE,p,FALSE,FALSE,Busan_7
+251,1,namgueul,prevote_out,0,1,0,0,Busan_7,114380,31536,13035,TRUE,d,FALSE,FALSE,Busan_7
+252,1,namgueul,abroad,0,0,1,0,Busan_7,456,116,35,FALSE,d,TRUE,FALSE,Busan_7
+569,1,buggugangseogugab,gupojei3dongjei3tu,1,0,0,0,Busan_8,141586,58457,27386,FALSE,p,FALSE,FALSE,Busan_8
+586,1,buggugangseogugab,prevote_in,0,1,0,0,Busan_8,141586,37785,21282,TRUE,p,FALSE,FALSE,Busan_8
+548,1,buggugangseogugab,abroad,0,0,1,0,Busan_8,266,87,63,FALSE,d,TRUE,FALSE,Busan_8
+720,1,buggugangseogueul,myeongji2dongjei2tu,1,0,0,0,Busan_9,211515,98784,54896,FALSE,p,FALSE,FALSE,Busan_9
+624,1,buggugangseogueul,prevote_out,0,1,0,0,Busan_9,211515,47244,21104,TRUE,d,FALSE,FALSE,Busan_9
+625,1,buggugangseogueul,abroad,0,0,1,0,Busan_9,585,137,51,FALSE,d,TRUE,FALSE,Busan_9
+1965,1514,cheongjusisangdanggu,seongandongjei2tu,1,0,0,0,Chung-cheong bukdo_1,150864,59312,25784,FALSE,p,FALSE,FALSE,Chung-cheong bukdo_1
+2021,1514,cheongjusisangdanggu,prevote_in,0,1,0,0,Chung-cheong bukdo_1,150864,37651,19854,TRUE,p,FALSE,FALSE,Chung-cheong bukdo_1
+1956,1514,cheongjusisangdanggu,abroad,0,0,1,0,Chung-cheong bukdo_1,309,82,66,FALSE,d,TRUE,FALSE,Chung-cheong bukdo_1
+2109,1514,cheongjusiseowueongu,seonghwaÂ·gaesinÂ·jugrimdongjei4tu,1,0,0,0,Chung-cheong bukdo_2,169010,65240,29605,FALSE,p,FALSE,FALSE,Chung-cheong bukdo_2
+2093,1514,cheongjusiseowueongu,prevote_in,0,1,0,0,Chung-cheong bukdo_2,169010,43212,24459,TRUE,p,FALSE,FALSE,Chung-cheong bukdo_2
+2041,1514,cheongjusiseowueongu,abroad,0,0,1,0,Chung-cheong bukdo_2,378,82,51,FALSE,d,TRUE,FALSE,Chung-cheong bukdo_2
+2261,1514,cheongjusiheungdeoggu,gagyeongdongjei7tu,1,0,0,0,Chung-cheong bukdo_3,217737,84080,43695,FALSE,p,FALSE,FALSE,Chung-cheong bukdo_3
+2247,1514,cheongjusiheungdeoggu,prevote_in,0,1,0,0,Chung-cheong bukdo_3,217737,49992,31111,TRUE,p,FALSE,FALSE,Chung-cheong bukdo_3
+2202,1514,cheongjusiheungdeoggu,abroad,0,0,1,0,Chung-cheong bukdo_3,474,135,92,FALSE,d,TRUE,FALSE,Chung-cheong bukdo_3
+2141,1514,cheongjusicheongwueongu,ochangeubjei6tu,1,0,0,0,Chung-cheong bukdo_4,157881,64683,32472,FALSE,p,FALSE,FALSE,Chung-cheong bukdo_4
+2191,1514,cheongjusicheongwueongu,prevote_in,0,1,0,0,Chung-cheong bukdo_4,157881,31508,18483,TRUE,p,FALSE,FALSE,Chung-cheong bukdo_4
+2123,1514,cheongjusicheongwueongu,abroad,0,0,1,0,Chung-cheong bukdo_4,290,87,63,FALSE,d,TRUE,FALSE,Chung-cheong bukdo_4
+2377,1514,chungjusi,yongsandongjei4tu,1,0,0,0,Chung-cheong bukdo_5,180263,63390,35691,FALSE,p,FALSE,FALSE,Chung-cheong bukdo_5
+2424,1514,chungjusi,prevote_in,0,1,0,0,Chung-cheong bukdo_5,180263,50709,23955,TRUE,p,FALSE,FALSE,Chung-cheong bukdo_5
+2299,1514,chungjusi,abroad,0,0,1,0,Chung-cheong bukdo_5,379,80,18,FALSE,d,TRUE,FALSE,Chung-cheong bukdo_5
+1740,1514,jeicheonsidanyanggun_danyanggun,jeogseongmyeonjei1tu,1,0,0,0,Chung-cheong bukdo_6,142109,52234,30544,FALSE,p,FALSE,FALSE,Chung-cheong bukdo_6
+1753,1514,jeicheonsidanyanggun_jeicheonsi,prevote_in,0,1,0,0,Chung-cheong bukdo_6,142109,42290,20610,TRUE,p,FALSE,FALSE,Chung-cheong bukdo_6
+1707,1514,jeicheonsidanyanggun_danyanggun,abroad,0,0,1,0,Chung-cheong bukdo_6,48,17,3,FALSE,d,TRUE,FALSE,Chung-cheong bukdo_6
+1639,1514,boeungunogcheongunyeongdonggungwaisangun_yeongdonggun,sangchonmyeontupyoso,1,0,0,0,Chung-cheong bukdo_7,152651,50716,31146,FALSE,p,FALSE,FALSE,Chung-cheong bukdo_7
+1604,1514,boeungunogcheongunyeongdonggungwaisangun_boeungun,prevote_in,0,1,0,0,Chung-cheong bukdo_7,152651,52039,27327,TRUE,p,FALSE,FALSE,Chung-cheong bukdo_7
+1614,1514,boeungunogcheongunyeongdonggungwaisangun_yeongdonggun,abroad,0,0,1,0,Chung-cheong bukdo_7,63,16,7,FALSE,d,TRUE,FALSE,Chung-cheong bukdo_7
+1918,1514,jeungpyeonggunjincheonguneumseonggun_jincheongun,jincheoneubjei8tu,1,0,0,0,Chung-cheong bukdo_8,180488,57284,29698,FALSE,p,FALSE,FALSE,Chung-cheong bukdo_8
+1890,1514,jeungpyeonggunjincheonguneumseonggun_jeungpyeonggun,prevote_in,0,1,0,0,Chung-cheong bukdo_8,180488,49420,26201,TRUE,p,FALSE,FALSE,Chung-cheong bukdo_8
+1907,1514,jeungpyeonggunjincheonguneumseonggun_jincheongun,abroad,0,0,1,0,Chung-cheong bukdo_8,111,30,24,FALSE,d,TRUE,FALSE,Chung-cheong bukdo_8
+3411,2427,cheonansigab,ilbongdongjei5tu,1,0,0,0,Chungcheongnam-do_1,167791,58939,26732,FALSE,p,FALSE,FALSE,Chungcheongnam-do_1
+3378,2427,cheonansigab,prevote_in,0,1,0,0,Chungcheongnam-do_1,167791,34198,19214,TRUE,p,FALSE,FALSE,Chungcheongnam-do_1
+3346,2427,cheonansigab,abroad,0,0,1,0,Chungcheongnam-do_1,344,78,53,FALSE,d,TRUE,FALSE,Chungcheongnam-do_1
+2875,2427,dangjinsi,sunseongmyeonjei2tu,1,0,0,0,Chungcheongnam-do_10,137412,49618,20148,FALSE,p,FALSE,FALSE,Chungcheongnam-do_10
+2842,2427,dangjinsi,prevote_in,0,1,0,0,Chungcheongnam-do_10,137412,31194,18365,TRUE,p,FALSE,FALSE,Chungcheongnam-do_10
+2826,2427,dangjinsi,abroad,0,0,1,0,Chungcheongnam-do_10,197,36,22,FALSE,d,TRUE,FALSE,Chungcheongnam-do_10
+3618,2427,hongseonggunyeisangun_yeisangun,yeisaneubjei4tu,1,0,0,0,Chungcheongnam-do_11,154943,53699,31148,FALSE,p,FALSE,FALSE,Chungcheongnam-do_11
+3632,2427,hongseonggunyeisangun_yeisangun,prevote_in,0,1,0,0,Chungcheongnam-do_11,154943,42604,20827,TRUE,p,FALSE,FALSE,Chungcheongnam-do_11
+3611,2427,hongseonggunyeisangun_yeisangun,abroad,0,0,1,0,Chungcheongnam-do_11,139,32,12,FALSE,d,TRUE,FALSE,Chungcheongnam-do_11
+3574,2427,cheonansieul,buldangdongjei10tu,1,0,0,0,Chungcheongnam-do_2,221297,89084,50022,FALSE,p,FALSE,FALSE,Chungcheongnam-do_2
+3564,2427,cheonansieul,prevote_in,0,1,0,0,Chungcheongnam-do_2,221297,43743,28130,TRUE,p,FALSE,FALSE,Chungcheongnam-do_2
+3516,2427,cheonansieul,abroad,0,0,1,0,Chungcheongnam-do_2,419,112,66,FALSE,d,TRUE,FALSE,Chungcheongnam-do_2
+3468,2427,cheonansibyeong,sinbangdongjei9tu,1,0,0,0,Chungcheongnam-do_3,146699,59837,26444,FALSE,p,FALSE,FALSE,Chungcheongnam-do_3
+3445,2427,cheonansibyeong,prevote_out,0,1,0,0,Chungcheongnam-do_3,146699,29846,16599,TRUE,d,FALSE,FALSE,Chungcheongnam-do_3
+3446,2427,cheonansibyeong,abroad,0,0,1,0,Chungcheongnam-do_3,314,96,68,FALSE,d,TRUE,FALSE,Chungcheongnam-do_3
+2591,2427,gongjusibuyeoguncheongyanggun_buyeogun,seidomyeonjei1tu,1,0,0,0,Chungcheongnam-do_4,180992,61369,30060,FALSE,p,FALSE,FALSE,Chungcheongnam-do_4
+2585,2427,gongjusibuyeoguncheongyanggun_buyeogun,prevote_in,0,1,0,0,Chungcheongnam-do_4,180992,56703,28572,TRUE,p,FALSE,FALSE,Chungcheongnam-do_4
+2439,2427,gongjusibuyeoguncheongyanggun_gongjusi,abroad,0,0,1,0,Chungcheongnam-do_4,211,56,34,FALSE,d,TRUE,FALSE,Chungcheongnam-do_4
+2995,2427,boryeongsiseocheongun_boryeongsi,daecheon5dongjei3tu,1,0,0,0,Chungcheongnam-do_5,135021,46640,26893,FALSE,p,FALSE,FALSE,Chungcheongnam-do_5
+3008,2427,boryeongsiseocheongun_seocheongun,prevote_in,0,1,0,0,Chungcheongnam-do_5,135021,44535,23827,TRUE,p,FALSE,FALSE,Chungcheongnam-do_5
+2911,2427,boryeongsiseocheongun_boryeongsi,abroad,0,0,1,0,Chungcheongnam-do_5,142,28,8,FALSE,d,TRUE,FALSE,Chungcheongnam-do_5
+3208,2427,asansigab,seonjangmyeonjei3tu,1,0,0,0,Chungcheongnam-do_6,125636,48400,25857,FALSE,p,FALSE,FALSE,Chungcheongnam-do_6
+3251,2427,asansigab,prevote_in,0,1,0,0,Chungcheongnam-do_6,125636,28146,12294,TRUE,p,FALSE,FALSE,Chungcheongnam-do_6
+3202,2427,asansigab,abroad,0,0,1,0,Chungcheongnam-do_6,204,46,15,FALSE,d,TRUE,FALSE,Chungcheongnam-do_6
+3320,2427,asansieul,dunpomyeonjei1tu,1,0,0,0,Chungcheongnam-do_7,125880,48522,27420,FALSE,p,FALSE,FALSE,Chungcheongnam-do_7
+3275,2427,asansieul,prevote_in,0,1,0,0,Chungcheongnam-do_7,125880,27334,17869,TRUE,p,FALSE,FALSE,Chungcheongnam-do_7
+3272,2427,asansieul,abroad,0,0,1,0,Chungcheongnam-do_7,292,65,48,FALSE,d,TRUE,FALSE,Chungcheongnam-do_7
+3066,2427,seosansitaeangun_seosansi,daesaneubjei3tu,1,0,0,0,Chungcheongnam-do_8,200515,70185,40189,FALSE,p,FALSE,FALSE,Chungcheongnam-do_8
+3071,2427,seosansitaeangun_seosansi,prevote_in,0,1,0,0,Chungcheongnam-do_8,200515,56724,26710,TRUE,p,FALSE,FALSE,Chungcheongnam-do_8
+3151,2427,seosansitaeangun_taeangun,abroad,0,0,1,0,Chungcheongnam-do_8,113,26,6,FALSE,d,TRUE,FALSE,Chungcheongnam-do_8
+2677,2427,nonsansigyeiryongsigeumsangun_gyeiryongsi,geumamdongjei1tu,1,0,0,0,Chungcheongnam-do_9,181786,64393,31895,FALSE,p,FALSE,FALSE,Chungcheongnam-do_9
+2750,2427,nonsansigyeiryongsigeumsangun_nonsansi,prevote_in,0,1,0,0,Chungcheongnam-do_9,181786,49842,27651,TRUE,p,FALSE,FALSE,Chungcheongnam-do_9
+2682,2427,nonsansigyeiryongsigeumsangun_geumsangun,abroad,0,0,1,0,Chungcheongnam-do_9,91,25,7,FALSE,d,TRUE,FALSE,Chungcheongnam-do_9
+4768,3736,junggunamgu_junggu,namsan4dongjei1tu,1,0,0,0,Daegu Metropolitan City_1,200613,77214,55272,FALSE,p,FALSE,FALSE,Daegu Metropolitan City_1
+4715,3736,junggunamgu_namgu,prevote_in,0,1,0,0,Daegu Metropolitan City_1,200613,50795,31158,TRUE,p,FALSE,FALSE,Daegu Metropolitan City_1
+4727,3736,junggunamgu_junggu,abroad,0,0,1,0,Daegu Metropolitan City_1,179,43,17,FALSE,d,TRUE,FALSE,Daegu Metropolitan City_1
+3956,3736,dalseogueul,dowueondongjei9tu,1,0,0,0,Daegu Metropolitan City_10,202996,97168,66183,FALSE,p,FALSE,FALSE,Daegu Metropolitan City_10
+3921,3736,dalseogueul,prevote_in,0,1,0,0,Daegu Metropolitan City_10,202996,41565,24527,TRUE,p,FALSE,FALSE,Daegu Metropolitan City_10
+3882,3736,dalseogueul,abroad,0,0,1,0,Daegu Metropolitan City_10,450,113,52,FALSE,d,TRUE,FALSE,Daegu Metropolitan City_10
+3833,3736,dalseogubyeong,duryu3dongjei3tu,1,0,0,0,Daegu Metropolitan City_11,133011,54769,31807,FALSE,p,FALSE,FALSE,Daegu Metropolitan City_11
+3830,3736,dalseogubyeong,prevote_in,0,1,0,0,Daegu Metropolitan City_11,133011,29383,15155,TRUE,p,FALSE,FALSE,Daegu Metropolitan City_11
+3813,3736,dalseogubyeong,abroad,0,0,1,0,Daegu Metropolitan City_11,280,62,25,FALSE,d,TRUE,FALSE,Daegu Metropolitan City_11
+4003,3736,dalseonggun,dasaeubjei9tu,1,0,0,0,Daegu Metropolitan City_12,207784,91641,64299,FALSE,p,FALSE,FALSE,Daegu Metropolitan City_12
+4050,3736,dalseonggun,prevote_in,0,1,0,0,Daegu Metropolitan City_12,207784,40226,24521,TRUE,p,FALSE,FALSE,Daegu Metropolitan City_12
+3967,3736,dalseonggun,abroad,0,0,1,0,Daegu Metropolitan City_12,331,68,24,FALSE,d,TRUE,FALSE,Daegu Metropolitan City_12
+4069,3736,donggugab,sinam1dongjei2tu,1,0,0,0,Daegu Metropolitan City_2,124051,47637,34816,FALSE,p,FALSE,FALSE,Daegu Metropolitan City_2
+4081,3736,donggugab,prevote_in,0,1,0,0,Daegu Metropolitan City_2,124051,33369,21598,TRUE,p,FALSE,FALSE,Daegu Metropolitan City_2
+4064,3736,donggugab,abroad,0,0,1,0,Daegu Metropolitan City_2,272,91,27,FALSE,d,TRUE,FALSE,Daegu Metropolitan City_2
+4208,3736,donggueul,gongsandongjei2tu,1,0,0,0,Daegu Metropolitan City_3,171731,76567,47982,FALSE,p,FALSE,FALSE,Daegu Metropolitan City_3
+4206,3736,donggueul,prevote_in,0,1,0,0,Daegu Metropolitan City_3,171731,33484,18436,TRUE,p,FALSE,FALSE,Daegu Metropolitan City_3
+4142,3736,donggueul,abroad,0,0,1,0,Daegu Metropolitan City_3,427,99,40,FALSE,d,TRUE,FALSE,Daegu Metropolitan City_3
+4442,3736,seogu,pyeongri1dongjei1tu,1,0,0,0,Daegu Metropolitan City_4,157141,62439,43744,FALSE,p,FALSE,FALSE,Daegu Metropolitan City_4
+4427,3736,seogu,prevote_in,0,1,0,0,Daegu Metropolitan City_4,157141,36221,22812,TRUE,p,FALSE,FALSE,Daegu Metropolitan City_4
+4392,3736,seogu,abroad,0,0,1,0,Daegu Metropolitan City_4,214,54,15,FALSE,d,TRUE,FALSE,Daegu Metropolitan City_4
+4226,3736,buggugab,goseongdongjei2tu,1,0,0,0,Daegu Metropolitan City_5,159991,65892,14723,FALSE,p,FALSE,FALSE,Daegu Metropolitan City_5
+4272,3736,buggugab,prevote_in,0,1,0,0,Daegu Metropolitan City_5,159991,40243,12629,TRUE,p,FALSE,FALSE,Daegu Metropolitan City_5
+4221,3736,buggugab,abroad,0,0,1,0,Daegu Metropolitan City_5,325,75,41,FALSE,d,TRUE,FALSE,Daegu Metropolitan City_5
+4336,3736,buggueul,taejeon1dongjei6tu,1,0,0,0,Daegu Metropolitan City_6,207529,93676,28326,FALSE,p,FALSE,FALSE,Daegu Metropolitan City_6
+4330,3736,buggueul,prevote_in,0,1,0,0,Daegu Metropolitan City_6,207529,43027,17516,TRUE,p,FALSE,FALSE,Daegu Metropolitan City_6
+4306,3736,buggueul,abroad,0,0,1,0,Daegu Metropolitan City_6,297,79,47,FALSE,d,TRUE,FALSE,Daegu Metropolitan City_6
+4537,3736,suseonggugab,hwanggeum1dongjei5tu,1,0,0,0,Daegu Metropolitan City_7,206500,91743,58605,FALSE,p,FALSE,FALSE,Daegu Metropolitan City_7
+4544,3736,suseonggugab,prevote_in,0,1,0,0,Daegu Metropolitan City_7,206500,61988,33370,TRUE,p,FALSE,FALSE,Daegu Metropolitan City_7
+4489,3736,suseonggugab,abroad,0,0,1,0,Daegu Metropolitan City_7,630,117,41,FALSE,d,TRUE,FALSE,Daegu Metropolitan City_7
+4630,3736,suseonggueul,jisan2dongjei4tu,1,0,0,0,Daegu Metropolitan City_8,149494,62794,25435,FALSE,p,FALSE,FALSE,Daegu Metropolitan City_8
+4596,3736,suseonggueul,prevote_in,0,1,0,0,Daegu Metropolitan City_8,149494,40993,14554,TRUE,p,FALSE,FALSE,Daegu Metropolitan City_8
+4576,3736,suseonggueul,abroad,0,0,1,0,Daegu Metropolitan City_8,466,100,22,FALSE,d,TRUE,FALSE,Daegu Metropolitan City_8
+3766,3736,dalseogugab,yongsan1dongjei4tu,1,0,0,0,Daegu Metropolitan City_9,144897,64474,38950,FALSE,p,FALSE,FALSE,Daegu Metropolitan City_9
+3771,3736,dalseogugab,prevote_in,0,1,0,0,Daegu Metropolitan City_9,144897,30410,15728,TRUE,p,FALSE,FALSE,Daegu Metropolitan City_9
+3747,3736,dalseogugab,abroad,0,0,1,0,Daegu Metropolitan City_9,280,58,21,FALSE,d,TRUE,FALSE,Daegu Metropolitan City_9
+4893,4779,donggu,hyodongjei5tu,1,0,0,0,Daejeon_1,193480,68619,35932,FALSE,p,FALSE,FALSE,Daejeon_1
+4905,4779,donggu,prevote_in,0,1,0,0,Daejeon_1,193480,51541,21239,TRUE,p,FALSE,FALSE,Daejeon_1
+4875,4779,donggu,abroad,0,0,1,0,Daejeon_1,392,85,21,FALSE,d,TRUE,FALSE,Daejeon_1
+5286,4779,junggu,daeheungdongjei1tu,1,0,0,0,Daejeon_2,205393,77188,40776,FALSE,p,FALSE,FALSE,Daejeon_2
+5319,4779,junggu,prevote_in,0,1,0,0,Daejeon_2,205393,54493,22691,TRUE,p,FALSE,FALSE,Daejeon_2
+5264,4779,junggu,abroad,0,0,1,0,Daejeon_2,529,117,29,FALSE,d,TRUE,FALSE,Daejeon_2
+4994,4779,seogugab,doma2dongjei2tu,1,0,0,0,Daejeon_3,212903,81956,42093,FALSE,p,FALSE,FALSE,Daejeon_3
+5012,4779,seogugab,prevote_in,0,1,0,0,Daejeon_3,212903,52787,32784,TRUE,p,FALSE,FALSE,Daejeon_3
+4976,4779,seogugab,abroad,0,0,1,0,Daejeon_3,427,106,82,FALSE,d,TRUE,FALSE,Daejeon_3
+5079,4779,seogueul,tanbangdongjei3tu,1,0,0,0,Daejeon_4,188188,71340,37637,FALSE,p,FALSE,FALSE,Daejeon_4
+5099,4779,seogueul,prevote_in,0,1,0,0,Daejeon_4,188188,51496,32968,TRUE,p,FALSE,FALSE,Daejeon_4
+5068,4779,seogueul,abroad,0,0,1,0,Daejeon_4,527,106,83,FALSE,d,TRUE,FALSE,Daejeon_4
+5181,4779,yuseonggugab,oncheon2dongjei8tu,1,0,0,0,Daejeon_5,148331,59055,30775,FALSE,p,FALSE,FALSE,Daejeon_5
+5153,4779,yuseonggugab,prevote_in,0,1,0,0,Daejeon_5,148331,38977,24622,TRUE,p,FALSE,FALSE,Daejeon_5
+5150,4779,yuseonggugab,abroad,0,0,1,0,Daejeon_5,470,82,65,FALSE,d,TRUE,FALSE,Daejeon_5
+5243,4779,yuseonggueul,gwanpyeongdongjei1tu,1,0,0,0,Daejeon_6,134163,54430,27555,FALSE,p,FALSE,FALSE,Daejeon_6
+5210,4779,yuseonggueul,prevote_in,0,1,0,0,Daejeon_6,134163,41748,26156,TRUE,p,FALSE,FALSE,Daejeon_6
+5207,4779,yuseonggueul,abroad,0,0,1,0,Daejeon_6,567,91,57,FALSE,d,TRUE,FALSE,Daejeon_6
+4857,4779,daedeoggu,seogbongdongjei2tu,1,0,0,0,Daejeon_7,151062,58211,26261,FALSE,p,FALSE,FALSE,Daejeon_7
+4789,4779,daedeoggu,prevote_out,0,1,0,0,Daejeon_7,151062,38196,21345,TRUE,d,FALSE,FALSE,Daejeon_7
+4790,4779,daedeoggu,abroad,0,0,1,0,Daejeon_7,274,62,45,FALSE,d,TRUE,FALSE,Daejeon_7
+6164,5365,chuncheonsicheolwueongunhwacheongunyanggugungab,twaigyeidongjei2tu,1,0,0,0,Gangwon-do_1,191850,74422,34268,FALSE,p,FALSE,FALSE,Gangwon-do_1
+6151,5365,chuncheonsicheolwueongunhwacheongunyanggugungab,prevote_in,0,1,0,0,Gangwon-do_1,191850,55870,32586,TRUE,p,FALSE,FALSE,Gangwon-do_1
+6080,5365,chuncheonsicheolwueongunhwacheongunyanggugungab,abroad,0,0,1,0,Gangwon-do_1,503,98,63,FALSE,d,TRUE,FALSE,Gangwon-do_1
+6319,5365,chuncheonsicheolwueongunhwacheongunyangguguneul_hwacheongun,hwacheoneubjei2tu,1,0,0,0,Gangwon-do_2,125198,47972,25908,FALSE,p,FALSE,FALSE,Gangwon-do_2
+6291,5365,chuncheonsicheolwueongunhwacheongunyangguguneul_chuncheonsi,prevote_in,0,1,0,0,Gangwon-do_2,125198,34678,17518,TRUE,p,FALSE,FALSE,Gangwon-do_2
+6221,5365,chuncheonsicheolwueongunhwacheongunyangguguneul_cheolwueongun,abroad,0,0,1,0,Gangwon-do_2,60,22,10,FALSE,d,TRUE,FALSE,Gangwon-do_2
+5928,5365,wueonjusigab,munmageubjei5tu,1,0,0,0,Gangwon-do_3,151972,52350,22501,FALSE,p,FALSE,FALSE,Gangwon-do_3
+5923,5365,wueonjusigab,prevote_in,0,1,0,0,Gangwon-do_3,151972,40691,22674,TRUE,p,FALSE,FALSE,Gangwon-do_3
+5920,5365,wueonjusigab,abroad,0,0,1,0,Gangwon-do_3,331,74,49,FALSE,d,TRUE,FALSE,Gangwon-do_3
+6029,5365,wueonjusieul,gaeundongjei2tu,1,0,0,0,Gangwon-do_4,141499,51173,24519,FALSE,p,FALSE,FALSE,Gangwon-do_4
+6043,5365,wueonjusieul,prevote_in,0,1,0,0,Gangwon-do_4,141499,39248,24190,TRUE,p,FALSE,FALSE,Gangwon-do_4
+6004,5365,wueonjusieul,abroad,0,0,1,0,Gangwon-do_4,328,86,61,FALSE,d,TRUE,FALSE,Gangwon-do_4
+5375,5365,gangreungsi,disabled_ship,0,0,0,1,Gangwon-do_5,183993,0,0,FALSE,d,FALSE,TRUE,Gangwon-do_5
+5397,5365,gangreungsi,prevote_in,0,1,0,0,Gangwon-do_5,183993,53718,19841,TRUE,p,FALSE,FALSE,Gangwon-do_5
+5377,5365,gangreungsi,abroad,0,0,1,0,Gangwon-do_5,378,96,6,FALSE,d,TRUE,FALSE,Gangwon-do_5
+5693,5365,donghaesitaebaegsisamcheogsijeongseongun_taebaegsi,abroad_office,1,0,0,0,Gangwon-do_6,205480,73705,43339,FALSE,d,FALSE,FALSE,Gangwon-do_6
+5656,5365,donghaesitaebaegsisamcheogsijeongseongun_jeongseongun,prevote_in,0,1,0,0,Gangwon-do_6,205480,59812,28248,TRUE,p,FALSE,FALSE,Gangwon-do_6
+5557,5365,donghaesitaebaegsisamcheogsijeongseongun_samcheogsi,abroad,0,0,1,0,Gangwon-do_6,71,21,2,FALSE,d,TRUE,FALSE,Gangwon-do_6
+5846,5365,sogchosiinjeigungoseonggunyangyanggun_yangyanggun,seomyeonjei3tu,1,0,0,0,Gangwon-do_7,146341,55462,31967,FALSE,p,FALSE,FALSE,Gangwon-do_7
+5864,5365,sogchosiinjeigungoseonggunyangyanggun_yangyanggun,prevote_in,0,1,0,0,Gangwon-do_7,146341,39964,18200,TRUE,p,FALSE,FALSE,Gangwon-do_7
+5874,5365,sogchosiinjeigungoseonggunyangyanggun_injeigun,abroad,0,0,1,0,Gangwon-do_7,28,5,1,FALSE,d,TRUE,FALSE,Gangwon-do_7
+6568,5365,hongseonggunhwaingseonggunyeongwueolgunpyeongchanggun_hwaingseonggun,gonggeunmyeonjei1tu,1,0,0,0,Gangwon-do_8,174337,63462,33715,FALSE,p,FALSE,FALSE,Gangwon-do_8
+6455,5365,hongseonggunhwaingseonggunyeongwueolgunpyeongchanggun_pyeongchanggun,prevote_in,0,1,0,0,Gangwon-do_8,174337,51630,22232,TRUE,p,FALSE,FALSE,Gangwon-do_8
+6409,5365,hongseonggunhwaingseonggunyeongwueolgunpyeongchanggun_pyeongchanggun,abroad,0,0,1,0,Gangwon-do_8,87,10,4,FALSE,d,TRUE,FALSE,Gangwon-do_8
+6769,6577,donggunamgugab_namgu,wueolsan4dongjei2tu,1,0,0,0,Gwangju_1,139407,46916,35240,FALSE,p,FALSE,FALSE,Gwangju_1
+6767,6577,donggunamgugab_namgu,prevote_in,0,1,0,0,Gwangju_1,139407,45741,36318,TRUE,p,FALSE,FALSE,Gwangju_1
+6745,6577,donggunamgugab_namgu,abroad,0,0,1,0,Gwangju_1,323,75,67,FALSE,d,TRUE,FALSE,Gwangju_1
+6839,6577,donggunamgueul_donggu,sansu1dongjei1tu,1,0,0,0,Gwangju_2,128461,39179,27484,FALSE,p,FALSE,FALSE,Gwangju_2
+6853,6577,donggunamgueul_donggu,prevote_in,0,1,0,0,Gwangju_2,128461,45974,34053,TRUE,p,FALSE,FALSE,Gwangju_2
+6818,6577,donggunamgueul_donggu,abroad,0,0,1,0,Gwangju_2,264,55,48,FALSE,d,TRUE,FALSE,Gwangju_2
+7123,6577,seogugab,nongseong2dongjei2tu,1,0,0,0,Gwangju_3,131274,41619,33631,FALSE,p,FALSE,FALSE,Gwangju_3
+7143,6577,seogugab,prevote_in,0,1,0,0,Gwangju_3,131274,42634,35607,TRUE,p,FALSE,FALSE,Gwangju_3
+7105,6577,seogugab,abroad,0,0,1,0,Gwangju_3,239,54,46,FALSE,d,TRUE,FALSE,Gwangju_3
+7212,6577,seogueul,geumho2dongjei3tu,1,0,0,0,Gwangju_4,120968,40900,30170,FALSE,p,FALSE,FALSE,Gwangju_4
+7178,6577,seogueul,prevote_in,0,1,0,0,Gwangju_4,120968,39854,31059,TRUE,p,FALSE,FALSE,Gwangju_4
+7175,6577,seogueul,abroad,0,0,1,0,Gwangju_4,240,52,45,FALSE,d,TRUE,FALSE,Gwangju_4
+6971,6577,buggugab,munheung2dongjei1tu,1,0,0,0,Gwangju_5,155585,47004,26199,FALSE,p,FALSE,FALSE,Gwangju_5
+6951,6577,buggugab,prevote_in,0,1,0,0,Gwangju_5,155585,55011,32755,TRUE,p,FALSE,FALSE,Gwangju_5
+6917,6577,buggugab,abroad,0,0,1,0,Gwangju_5,297,79,56,FALSE,d,TRUE,FALSE,Gwangju_5
+7094,6577,buggueul,yangsandongjei4tu,1,0,0,0,Gwangju_6,208465,71606,55760,FALSE,p,FALSE,FALSE,Gwangju_6
+7066,6577,buggueul,prevote_in,0,1,0,0,Gwangju_6,208465,65586,52382,TRUE,p,FALSE,FALSE,Gwangju_6
+7023,6577,buggueul,abroad,0,0,1,0,Gwangju_6,443,98,82,FALSE,d,TRUE,FALSE,Gwangju_6
+6615,6577,gwangsangugab,eoryongdongjei7tu,1,0,0,0,Gwangju_7,139019,47101,36301,FALSE,p,FALSE,FALSE,Gwangju_7
+6604,6577,gwangsangugab,prevote_in,0,1,0,0,Gwangju_7,139019,39612,31135,TRUE,p,FALSE,FALSE,Gwangju_7
+6586,6577,gwangsangugab,abroad,0,0,1,0,Gwangju_7,194,51,45,FALSE,d,TRUE,FALSE,Gwangju_7
+6722,6577,gwangsangueul,suwandongjei8tu,1,0,0,0,Gwangju_8,182544,65846,55112,FALSE,p,FALSE,FALSE,Gwangju_8
+6729,6577,gwangsangueul,prevote_in,0,1,0,0,Gwangju_8,182544,49263,41638,TRUE,p,FALSE,FALSE,Gwangju_8
+6672,6577,gwangsangueul,abroad,0,0,1,0,Gwangju_8,249,61,56,FALSE,d,TRUE,FALSE,Gwangju_8
+11000,9076,suwueonsigab,songjugdongjei2tu,1,0,0,0,Gyeonggi-do_1,197264,81548,45199,FALSE,p,FALSE,FALSE,Gyeonggi-do_1
+10963,9076,suwueonsigab,prevote_in,0,1,0,0,Gyeonggi-do_1,197264,48225,31583,TRUE,p,FALSE,FALSE,Gyeonggi-do_1
+10951,9076,suwueonsigab,abroad,0,0,1,0,Gyeonggi-do_1,604,147,92,FALSE,d,TRUE,FALSE,Gyeonggi-do_1
+12829,9076,euijeongbusigab,howueon1dongjei5tu,1,0,0,0,Gyeonggi-do_10,177854,63162,30951,FALSE,p,FALSE,FALSE,Gyeonggi-do_10
+12824,9076,euijeongbusigab,prevote_in,0,1,0,0,Gyeonggi-do_10,177854,40031,23745,TRUE,p,FALSE,FALSE,Gyeonggi-do_10
+12804,9076,euijeongbusigab,abroad,0,0,1,0,Gyeonggi-do_10,520,147,106,FALSE,d,TRUE,FALSE,Gyeonggi-do_10
+12916,9076,euijeongbusieul,songsan1dongjei9tu,1,0,0,0,Gyeonggi-do_11,206642,82828,43483,FALSE,p,FALSE,FALSE,Gyeonggi-do_11
+12883,9076,euijeongbusieul,prevote_in,0,1,0,0,Gyeonggi-do_11,206642,44854,27980,TRUE,p,FALSE,FALSE,Gyeonggi-do_11
+12872,9076,euijeongbusieul,abroad,0,0,1,0,Gyeonggi-do_11,541,143,105,FALSE,d,TRUE,FALSE,Gyeonggi-do_11
+12021,9076,anyangsimanangu,seogsu1dongjei2tu,1,0,0,0,Gyeonggi-do_12,210218,81560,39999,FALSE,p,FALSE,FALSE,Gyeonggi-do_12
+12008,9076,anyangsimanangu,prevote_in,0,1,0,0,Gyeonggi-do_12,210218,58651,35123,TRUE,p,FALSE,FALSE,Gyeonggi-do_12
+11966,9076,anyangsimanangu,abroad,0,0,1,0,Gyeonggi-do_12,663,186,142,FALSE,d,TRUE,FALSE,Gyeonggi-do_12
+11856,9076,anyangsidongangugab,bisan3dongjei3tu,1,0,0,0,Gyeonggi-do_13,145201,62149,31371,FALSE,p,FALSE,FALSE,Gyeonggi-do_13
+11841,9076,anyangsidongangugab,prevote_in,0,1,0,0,Gyeonggi-do_13,145201,39512,24869,TRUE,p,FALSE,FALSE,Gyeonggi-do_13
+11838,9076,anyangsidongangugab,abroad,0,0,1,0,Gyeonggi-do_13,626,156,101,FALSE,d,TRUE,FALSE,Gyeonggi-do_13
+11922,9076,anyangsidongangueul,gwiindongjei2tu,1,0,0,0,Gyeonggi-do_14,121460,53251,26174,FALSE,p,FALSE,FALSE,Gyeonggi-do_14
+11944,9076,anyangsidongangueul,prevote_in,0,1,0,0,Gyeonggi-do_14,121460,38411,23446,TRUE,p,FALSE,FALSE,Gyeonggi-do_14
+11905,9076,anyangsidongangueul,abroad,0,0,1,0,Gyeonggi-do_14,608,176,113,FALSE,d,TRUE,FALSE,Gyeonggi-do_14
+10384,9076,bucheonsigab,bucheondongjei18tu,1,0,0,0,Gyeonggi-do_15,138013,56684,31828,FALSE,p,FALSE,FALSE,Gyeonggi-do_15
+10346,9076,bucheonsigab,prevote_out,0,1,0,0,Gyeonggi-do_15,138013,24322,16091,TRUE,d,FALSE,FALSE,Gyeonggi-do_15
+10347,9076,bucheonsigab,abroad,0,0,1,0,Gyeonggi-do_15,367,106,81,FALSE,d,TRUE,FALSE,Gyeonggi-do_15
+10517,9076,bucheonsieul,sangdongjei9tu,1,0,0,0,Gyeonggi-do_16,219316,98113,49923,FALSE,p,FALSE,FALSE,Gyeonggi-do_16
+10468,9076,bucheonsieul,prevote_in,0,1,0,0,Gyeonggi-do_16,219316,49010,30812,TRUE,p,FALSE,FALSE,Gyeonggi-do_16
+10465,9076,bucheonsieul,abroad,0,0,1,0,Gyeonggi-do_16,729,194,152,FALSE,d,TRUE,FALSE,Gyeonggi-do_16
+10427,9076,bucheonsibyeong,sosabondongjei8tu,1,0,0,0,Gyeonggi-do_17,201193,87131,49637,FALSE,p,FALSE,FALSE,Gyeonggi-do_17
+10419,9076,bucheonsibyeong,prevote_in,0,1,0,0,Gyeonggi-do_17,201193,40803,27817,TRUE,p,FALSE,FALSE,Gyeonggi-do_17
+10394,9076,bucheonsibyeong,abroad,0,0,1,0,Gyeonggi-do_17,664,165,120,FALSE,d,TRUE,FALSE,Gyeonggi-do_17
+10548,9076,bucheonsijeong,seonggogdongjei15tu,1,0,0,0,Gyeonggi-do_18,150120,62819,33528,FALSE,p,FALSE,FALSE,Gyeonggi-do_18
+10533,9076,bucheonsijeong,prevote_in,0,1,0,0,Gyeonggi-do_18,150120,24385,15943,TRUE,p,FALSE,FALSE,Gyeonggi-do_18
+10530,9076,bucheonsijeong,abroad,0,0,1,0,Gyeonggi-do_18,339,117,80,FALSE,d,TRUE,FALSE,Gyeonggi-do_18
+9454,9076,gwangmyeongsigab,gwangmyeong1dongjei2tu,1,0,0,0,Gyeonggi-do_19,133959,54116,23224,FALSE,p,FALSE,FALSE,Gyeonggi-do_19
+9461,9076,gwangmyeongsigab,prevote_in,0,1,0,0,Gyeonggi-do_19,133959,36015,19719,TRUE,p,FALSE,FALSE,Gyeonggi-do_19
+9449,9076,gwangmyeongsigab,abroad,0,0,1,0,Gyeonggi-do_19,450,118,75,FALSE,d,TRUE,FALSE,Gyeonggi-do_19
+11238,9076,suwueonsieul,geumgogdongjei6tu,1,0,0,0,Gyeonggi-do_2,212682,90127,51587,FALSE,p,FALSE,FALSE,Gyeonggi-do_2
+11207,9076,suwueonsieul,prevote_in,0,1,0,0,Gyeonggi-do_2,212682,48970,32801,TRUE,p,FALSE,FALSE,Gyeonggi-do_2
+11193,9076,suwueonsieul,abroad,0,0,1,0,Gyeonggi-do_2,612,140,109,FALSE,d,TRUE,FALSE,Gyeonggi-do_2
+9536,9076,gwangmyeongsieul,haan2dongjei1tu,1,0,0,0,Gyeonggi-do_20,130843,57930,34943,FALSE,p,FALSE,FALSE,Gyeonggi-do_20
+9541,9076,gwangmyeongsieul,prevote_in,0,1,0,0,Gyeonggi-do_20,130843,32652,23108,TRUE,p,FALSE,FALSE,Gyeonggi-do_20
+9524,9076,gwangmyeongsieul,abroad,0,0,1,0,Gyeonggi-do_20,434,108,78,FALSE,d,TRUE,FALSE,Gyeonggi-do_20
+13312,9076,pyeongtaegsigab,seigyodongjei2tu,1,0,0,0,Gyeonggi-do_21,213391,80951,38196,FALSE,p,FALSE,FALSE,Gyeonggi-do_21
+13287,9076,pyeongtaegsigab,prevote_in,0,1,0,0,Gyeonggi-do_21,213391,43477,24272,TRUE,p,FALSE,FALSE,Gyeonggi-do_21
+13227,9076,pyeongtaegsigab,abroad,0,0,1,0,Gyeonggi-do_21,472,119,84,FALSE,d,TRUE,FALSE,Gyeonggi-do_21
+13348,9076,pyeongtaegsieul,anjungeubjei6tu,1,0,0,0,Gyeonggi-do_22,214339,79750,40693,FALSE,p,FALSE,FALSE,Gyeonggi-do_22
+13342,9076,pyeongtaegsieul,prevote_in,0,1,0,0,Gyeonggi-do_22,214339,44932,18772,TRUE,p,FALSE,FALSE,Gyeonggi-do_22
+13329,9076,pyeongtaegsieul,abroad,0,0,1,0,Gyeonggi-do_22,458,104,26,FALSE,d,TRUE,FALSE,Gyeonggi-do_22
+10260,9076,dongducheonsiyeoncheongun_dongducheonsi,bulhyeondongjei4tu,1,0,0,0,Gyeonggi-do_23,118716,40638,23613,FALSE,p,FALSE,FALSE,Gyeonggi-do_23
+10249,9076,dongducheonsiyeoncheongun_dongducheonsi,prevote_in,0,1,0,0,Gyeonggi-do_23,118716,31641,15153,TRUE,p,FALSE,FALSE,Gyeonggi-do_23
+10284,9076,dongducheonsiyeoncheongun_yeoncheongun,abroad,0,0,1,0,Gyeonggi-do_23,68,15,6,FALSE,d,TRUE,FALSE,Gyeonggi-do_23
+11653,9076,ansansisangroggugab,banwueoldongjei3tu,1,0,0,0,Gyeonggi-do_24,166882,63373,34543,FALSE,p,FALSE,FALSE,Gyeonggi-do_24
+11621,9076,ansansisangroggugab,prevote_out,0,1,0,0,Gyeonggi-do_24,166882,37312,24398,TRUE,d,FALSE,FALSE,Gyeonggi-do_24
+11622,9076,ansansisangroggugab,abroad,0,0,1,0,Gyeonggi-do_24,445,106,80,FALSE,d,TRUE,FALSE,Gyeonggi-do_24
+11724,9076,ansansisangroggueul,seongpodongjei4tu,1,0,0,0,Gyeonggi-do_25,128916,48482,26109,FALSE,p,FALSE,FALSE,Gyeonggi-do_25
+11710,9076,ansansisangroggueul,prevote_in,0,1,0,0,Gyeonggi-do_25,128916,26881,17416,TRUE,p,FALSE,FALSE,Gyeonggi-do_25
+11687,9076,ansansisangroggueul,abroad,0,0,1,0,Gyeonggi-do_25,309,99,73,FALSE,d,TRUE,FALSE,Gyeonggi-do_25
+11512,9076,ansansidanwueongugab,wadongjei5tu,1,0,0,0,Gyeonggi-do_26,132705,48835,25734,FALSE,p,FALSE,FALSE,Gyeonggi-do_26
+11517,9076,ansansidanwueongugab,prevote_in,0,1,0,0,Gyeonggi-do_26,132705,26470,16236,TRUE,p,FALSE,FALSE,Gyeonggi-do_26
+11504,9076,ansansidanwueongugab,abroad,0,0,1,0,Gyeonggi-do_26,210,53,39,FALSE,d,TRUE,FALSE,Gyeonggi-do_26
+11574,9076,ansansidanwueongueul,hosudongjei4tu,1,0,0,0,Gyeonggi-do_27,126864,52920,24872,FALSE,p,FALSE,FALSE,Gyeonggi-do_27
+11596,9076,ansansidanwueongueul,prevote_in,0,1,0,0,Gyeonggi-do_27,126864,29117,17215,TRUE,p,FALSE,FALSE,Gyeonggi-do_27
+11567,9076,ansansidanwueongueul,abroad,0,0,1,0,Gyeonggi-do_27,321,83,61,FALSE,d,TRUE,FALSE,Gyeonggi-do_27
+9149,9076,goyangsigab,hwajeong1dongjei5tu,1,0,0,0,Gyeonggi-do_28,216447,91128,35992,FALSE,p,FALSE,FALSE,Gyeonggi-do_28
+9134,9076,goyangsigab,prevote_in,0,1,0,0,Gyeonggi-do_28,216447,52140,20460,TRUE,p,FALSE,FALSE,Gyeonggi-do_28
+9084,9076,goyangsigab,abroad,0,0,1,0,Gyeonggi-do_28,876,206,60,FALSE,d,TRUE,FALSE,Gyeonggi-do_28
+9327,9076,goyangsieul,daedeogdongjei2tu,1,0,0,0,Gyeonggi-do_29,226502,96218,46003,FALSE,p,FALSE,FALSE,Gyeonggi-do_29
+9274,9076,goyangsieul,prevote_in,0,1,0,0,Gyeonggi-do_29,226502,57336,34507,TRUE,p,FALSE,FALSE,Gyeonggi-do_29
+9258,9076,goyangsieul,abroad,0,0,1,0,Gyeonggi-do_29,1044,305,223,FALSE,d,TRUE,FALSE,Gyeonggi-do_29
+11180,9076,suwueonsibyeong,ingyeidongjei2tu,1,0,0,0,Gyeonggi-do_3,154097,56964,27850,FALSE,p,FALSE,FALSE,Gyeonggi-do_3
+11134,9076,suwueonsibyeong,prevote_in,0,1,0,0,Gyeonggi-do_3,154097,37802,22418,TRUE,p,FALSE,FALSE,Gyeonggi-do_3
+11123,9076,suwueonsibyeong,abroad,0,0,1,0,Gyeonggi-do_3,526,131,98,FALSE,d,TRUE,FALSE,Gyeonggi-do_3
+9222,9076,goyangsibyeong,madu2dongjei4tu,1,0,0,0,Gyeonggi-do_30,223611,93071,46327,FALSE,p,FALSE,FALSE,Gyeonggi-do_30
+9242,9076,goyangsibyeong,prevote_in,0,1,0,0,Gyeonggi-do_30,223611,54212,33558,TRUE,p,FALSE,FALSE,Gyeonggi-do_30
+9170,9076,goyangsibyeong,abroad,0,0,1,0,Gyeonggi-do_30,1130,256,181,FALSE,d,TRUE,FALSE,Gyeonggi-do_30
+9394,9076,goyangsijeong,juyeob1dongjei2tu,1,0,0,0,Gyeonggi-do_31,234198,106441,51868,FALSE,p,FALSE,FALSE,Gyeonggi-do_31
+9402,9076,goyangsijeong,prevote_in,0,1,0,0,Gyeonggi-do_31,234198,54061,33839,TRUE,p,FALSE,FALSE,Gyeonggi-do_31
+9359,9076,goyangsijeong,abroad,0,0,1,0,Gyeonggi-do_31,1241,367,236,FALSE,d,TRUE,FALSE,Gyeonggi-do_31
+12753,9076,euiwangsigwacheonsi_euiwangsi,bugogdongjei4tu,1,0,0,0,Gyeonggi-do_32,187635,82198,35430,FALSE,p,FALSE,FALSE,Gyeonggi-do_32
+12714,9076,euiwangsigwacheonsi_gwacheonsi,prevote_in,0,1,0,0,Gyeonggi-do_32,187635,53373,25523,TRUE,p,FALSE,FALSE,Gyeonggi-do_32
+12707,9076,euiwangsigwacheonsi_gwacheonsi,abroad,0,0,1,0,Gyeonggi-do_32,360,105,48,FALSE,d,TRUE,FALSE,Gyeonggi-do_32
+9718,9076,gurisi,donggudongjei5tu,1,0,0,0,Gyeonggi-do_33,168157,71123,38540,FALSE,p,FALSE,FALSE,Gyeonggi-do_33
+9766,9076,gurisi,prevote_in,0,1,0,0,Gyeonggi-do_33,168157,38992,26027,TRUE,p,FALSE,FALSE,Gyeonggi-do_33
+9701,9076,gurisi,abroad,0,0,1,0,Gyeonggi-do_33,532,144,98,FALSE,d,TRUE,FALSE,Gyeonggi-do_33
+10052,9076,namyangjusigab,hwadoeubjei19tu,1,0,0,0,Gyeonggi-do_34,168806,68140,36946,FALSE,p,FALSE,FALSE,Gyeonggi-do_34
+10059,9076,namyangjusigab,prevote_in,0,1,0,0,Gyeonggi-do_34,168806,34883,22741,TRUE,p,FALSE,FALSE,Gyeonggi-do_34
+10030,9076,namyangjusigab,abroad,0,0,1,0,Gyeonggi-do_34,546,121,92,FALSE,d,TRUE,FALSE,Gyeonggi-do_34
+10227,9076,namyangjusieul,byeolnaedongjei11tu,1,0,0,0,Gyeonggi-do_35,193523,78047,43019,FALSE,p,FALSE,FALSE,Gyeonggi-do_35
+10209,9076,namyangjusieul,prevote_in,0,1,0,0,Gyeonggi-do_35,193523,37999,25530,TRUE,p,FALSE,FALSE,Gyeonggi-do_35
+10175,9076,namyangjusieul,abroad,0,0,1,0,Gyeonggi-do_35,581,160,110,FALSE,d,TRUE,FALSE,Gyeonggi-do_35
+10149,9076,namyangjusibyeong,dasan1dongjei14tu,1,0,0,0,Gyeonggi-do_36,212655,96924,44901,FALSE,p,FALSE,FALSE,Gyeonggi-do_36
+10160,9076,namyangjusibyeong,prevote_in,0,1,0,0,Gyeonggi-do_36,212655,46182,26724,TRUE,p,FALSE,FALSE,Gyeonggi-do_36
+10089,9076,namyangjusibyeong,abroad,0,0,1,0,Gyeonggi-do_36,793,216,151,FALSE,d,TRUE,FALSE,Gyeonggi-do_36
+12355,9076,osansi,seimadongjei1tu,1,0,0,0,Gyeonggi-do_37,182082,73229,39127,FALSE,p,FALSE,FALSE,Gyeonggi-do_37
+12316,9076,osansi,prevote_in,0,1,0,0,Gyeonggi-do_37,182082,35859,22735,TRUE,p,FALSE,FALSE,Gyeonggi-do_37
+12303,9076,osansi,abroad,0,0,1,0,Gyeonggi-do_37,389,93,62,FALSE,d,TRUE,FALSE,Gyeonggi-do_37
+11352,9076,siheungsigab,daeyadongjei1tu,1,0,0,0,Gyeonggi-do_38,205460,88002,42604,FALSE,p,FALSE,FALSE,Gyeonggi-do_38
+11372,9076,siheungsigab,prevote_in,0,1,0,0,Gyeonggi-do_38,205460,44614,25964,TRUE,p,FALSE,FALSE,Gyeonggi-do_38
+11348,9076,siheungsigab,abroad,0,0,1,0,Gyeonggi-do_38,479,124,85,FALSE,d,TRUE,FALSE,Gyeonggi-do_38
+11486,9076,siheungsieul,baegoddongjei4tu,1,0,0,0,Gyeonggi-do_39,185517,66904,42948,FALSE,p,FALSE,FALSE,Gyeonggi-do_39
+11482,9076,siheungsieul,prevote_in,0,1,0,0,Gyeonggi-do_39,185517,36360,26258,TRUE,p,FALSE,FALSE,Gyeonggi-do_39
+11428,9076,siheungsieul,abroad,0,0,1,0,Gyeonggi-do_39,363,81,59,FALSE,d,TRUE,FALSE,Gyeonggi-do_39
+11287,9076,suwueonsijeong,maetan2dongjei3tu,1,0,0,0,Gyeonggi-do_4,200760,85309,45429,FALSE,p,FALSE,FALSE,Gyeonggi-do_4
+11306,9076,suwueonsijeong,prevote_in,0,1,0,0,Gyeonggi-do_4,200760,53019,33984,TRUE,p,FALSE,FALSE,Gyeonggi-do_4
+11273,9076,suwueonsijeong,abroad,0,0,1,0,Gyeonggi-do_4,879,202,139,FALSE,d,TRUE,FALSE,Gyeonggi-do_4
+9838,9076,gunposi,ogeumdongjei3tu,1,0,0,0,Gyeonggi-do_40,231814,101607,53948,FALSE,p,FALSE,FALSE,Gyeonggi-do_40
+9792,9076,gunposi,prevote_in,0,1,0,0,Gyeonggi-do_40,231814,57116,37151,TRUE,p,FALSE,FALSE,Gyeonggi-do_40
+9778,9076,gunposi,abroad,0,0,1,0,Gyeonggi-do_40,851,206,153,FALSE,d,TRUE,FALSE,Gyeonggi-do_40
+13651,9076,hanamsi,misa1dongjei7tu,1,0,0,0,Gyeonggi-do_41,226947,90859,41699,FALSE,p,FALSE,FALSE,Gyeonggi-do_41
+13606,9076,hanamsi,prevote_in,0,1,0,0,Gyeonggi-do_41,226947,59764,34739,TRUE,p,FALSE,FALSE,Gyeonggi-do_41
+13581,9076,hanamsi,abroad,0,0,1,0,Gyeonggi-do_41,853,184,131,FALSE,d,TRUE,FALSE,Gyeonggi-do_41
+12425,9076,yonginsigab,yeogsamdongjei1tu,1,0,0,0,Gyeonggi-do_42,212221,81782,46920,FALSE,p,FALSE,FALSE,Gyeonggi-do_42
+12402,9076,yonginsigab,prevote_in,0,1,0,0,Gyeonggi-do_42,212221,49456,22867,TRUE,p,FALSE,FALSE,Gyeonggi-do_42
+12374,9076,yonginsigab,abroad,0,0,1,0,Gyeonggi-do_42,625,152,39,FALSE,d,TRUE,FALSE,Gyeonggi-do_42
+12565,9076,yonginsieul,gugaldongjei4tu,1,0,0,0,Gyeonggi-do_43,218376,95006,53331,FALSE,p,FALSE,FALSE,Gyeonggi-do_43
+12607,9076,yonginsieul,prevote_in,0,1,0,0,Gyeonggi-do_43,218376,53985,36158,TRUE,p,FALSE,FALSE,Gyeonggi-do_43
+12547,9076,yonginsieul,abroad,0,0,1,0,Gyeonggi-do_43,997,252,185,FALSE,d,TRUE,FALSE,Gyeonggi-do_43
+12535,9076,yonginsibyeong,seongbogdongjei5tu,1,0,0,0,Gyeonggi-do_44,223446,103892,48125,FALSE,p,FALSE,FALSE,Gyeonggi-do_44
+12468,9076,yonginsibyeong,prevote_out,0,1,0,0,Gyeonggi-do_44,223446,59528,36087,TRUE,d,FALSE,FALSE,Gyeonggi-do_44
+12469,9076,yonginsibyeong,abroad,0,0,1,0,Gyeonggi-do_44,1770,447,279,FALSE,d,TRUE,FALSE,Gyeonggi-do_44
+12664,9076,yonginsijeong,bojeongdongjei7tu,1,0,0,0,Gyeonggi-do_45,205539,94857,46025,FALSE,p,FALSE,FALSE,Gyeonggi-do_45
+12657,9076,yonginsijeong,prevote_in,0,1,0,0,Gyeonggi-do_45,205539,54027,33515,TRUE,p,FALSE,FALSE,Gyeonggi-do_45
+12635,9076,yonginsijeong,abroad,0,0,1,0,Gyeonggi-do_45,1401,346,244,FALSE,d,TRUE,FALSE,Gyeonggi-do_45
+13067,9076,pajusigab,tanhyeonmyeonjei1tu,1,0,0,0,Gyeonggi-do_46,219134,95268,54979,FALSE,p,FALSE,FALSE,Gyeonggi-do_46
+13073,9076,pajusigab,prevote_in,0,1,0,0,Gyeonggi-do_46,219134,44096,29903,TRUE,p,FALSE,FALSE,Gyeonggi-do_46
+13045,9076,pajusigab,abroad,0,0,1,0,Gyeonggi-do_46,849,227,171,FALSE,d,TRUE,FALSE,Gyeonggi-do_46
+13196,9076,pajusieul,geumchon1dongjei2tu,1,0,0,0,Gyeonggi-do_47,150668,55745,27541,FALSE,p,FALSE,FALSE,Gyeonggi-do_47
+13132,9076,pajusieul,prevote_out,0,1,0,0,Gyeonggi-do_47,150668,33506,20935,TRUE,d,FALSE,FALSE,Gyeonggi-do_47
+13133,9076,pajusieul,abroad,0,0,1,0,Gyeonggi-do_47,400,121,89,FALSE,d,TRUE,FALSE,Gyeonggi-do_47
+13026,9076,icheonsi,jeungpodongjei9tu,1,0,0,0,Gyeonggi-do_48,178590,62898,35524,FALSE,p,FALSE,FALSE,Gyeonggi-do_48
+12979,9076,icheonsi,prevote_in,0,1,0,0,Gyeonggi-do_48,178590,45748,20994,TRUE,p,FALSE,FALSE,Gyeonggi-do_48
+12951,9076,icheonsi,abroad,0,0,1,0,Gyeonggi-do_48,426,99,23,FALSE,d,TRUE,FALSE,Gyeonggi-do_48
+11741,9076,anseongsi,gongdoeubjei2tu,1,0,0,0,Gyeonggi-do_49,154643,55578,26635,FALSE,p,FALSE,FALSE,Gyeonggi-do_49
+11802,9076,anseongsi,prevote_in,0,1,0,0,Gyeonggi-do_49,154643,40954,23026,TRUE,p,FALSE,FALSE,Gyeonggi-do_49
+11736,9076,anseongsi,abroad,0,0,1,0,Gyeonggi-do_49,378,71,40,FALSE,d,TRUE,FALSE,Gyeonggi-do_49
+11102,9076,suwueonsimu,mangpo2dongjei2tu,1,0,0,0,Gyeonggi-do_5,228950,94384,48856,FALSE,p,FALSE,FALSE,Gyeonggi-do_5
+11100,9076,suwueonsimu,prevote_in,0,1,0,0,Gyeonggi-do_5,228950,53906,33007,TRUE,p,FALSE,FALSE,Gyeonggi-do_5
+11033,9076,suwueonsimu,abroad,0,0,1,0,Gyeonggi-do_5,798,211,136,FALSE,d,TRUE,FALSE,Gyeonggi-do_5
+9905,9076,gimposigab,pungmudongjei8tu,1,0,0,0,Gyeonggi-do_50,165143,75201,37679,FALSE,p,FALSE,FALSE,Gyeonggi-do_50
+9877,9076,gimposigab,prevote_out,0,1,0,0,Gyeonggi-do_50,165143,35460,20818,TRUE,d,FALSE,FALSE,Gyeonggi-do_50
+9878,9076,gimposigab,abroad,0,0,1,0,Gyeonggi-do_50,664,164,113,FALSE,d,TRUE,FALSE,Gyeonggi-do_50
+9988,9076,gimposieul,guraedongjei1tu,1,0,0,0,Gyeonggi-do_51,186714,74462,37606,FALSE,p,FALSE,FALSE,Gyeonggi-do_51
+9941,9076,gimposieul,prevote_out,0,1,0,0,Gyeonggi-do_51,186714,42767,25470,TRUE,d,FALSE,FALSE,Gyeonggi-do_51
+9942,9076,gimposieul,abroad,0,0,1,0,Gyeonggi-do_51,581,159,116,FALSE,d,TRUE,FALSE,Gyeonggi-do_51
+13704,9076,hwaseongsigab,hyangnameubjei12tu,1,0,0,0,Gyeonggi-do_52,198962,71756,33120,FALSE,p,FALSE,FALSE,Gyeonggi-do_52
+13737,9076,hwaseongsigab,prevote_in,0,1,0,0,Gyeonggi-do_52,198962,46329,25487,TRUE,p,FALSE,FALSE,Gyeonggi-do_52
+13677,9076,hwaseongsigab,abroad,0,0,1,0,Gyeonggi-do_52,466,113,82,FALSE,d,TRUE,FALSE,Gyeonggi-do_52
+13895,9076,hwaseongsieul,dongtan5dongjei6tu,1,0,0,0,Gyeonggi-do_53,223569,98543,60635,FALSE,p,FALSE,FALSE,Gyeonggi-do_53
+13870,9076,hwaseongsieul,prevote_in,0,1,0,0,Gyeonggi-do_53,223569,54084,37854,TRUE,p,FALSE,FALSE,Gyeonggi-do_53
+13855,9076,hwaseongsieul,abroad,0,0,1,0,Gyeonggi-do_53,729,173,121,FALSE,d,TRUE,FALSE,Gyeonggi-do_53
+13791,9076,hwaseongsibyeong,bongdameubjei12tu,1,0,0,0,Gyeonggi-do_54,219047,87404,53720,FALSE,p,FALSE,FALSE,Gyeonggi-do_54
+13781,9076,hwaseongsibyeong,prevote_in,0,1,0,0,Gyeonggi-do_54,219047,50213,34957,TRUE,p,FALSE,FALSE,Gyeonggi-do_54
+13778,9076,hwaseongsibyeong,abroad,0,0,1,0,Gyeonggi-do_54,604,150,115,FALSE,d,TRUE,FALSE,Gyeonggi-do_54
+9626,9076,gwangjusigab,songjeongdongjei9tu,1,0,0,0,Gyeonggi-do_55,156436,59012,31089,FALSE,p,FALSE,FALSE,Gyeonggi-do_55
+9600,9076,gwangjusigab,prevote_in,0,1,0,0,Gyeonggi-do_55,156436,35643,22039,TRUE,p,FALSE,FALSE,Gyeonggi-do_55
+9587,9076,gwangjusigab,abroad,0,0,1,0,Gyeonggi-do_55,454,118,88,FALSE,d,TRUE,FALSE,Gyeonggi-do_55
+9663,9076,gwangjusieul,opoeubjei10tu,1,0,0,0,Gyeonggi-do_56,155129,60600,32103,FALSE,p,FALSE,FALSE,Gyeonggi-do_56
+9690,9076,gwangjusieul,prevote_in,0,1,0,0,Gyeonggi-do_56,155129,31523,20277,TRUE,p,FALSE,FALSE,Gyeonggi-do_56
+9650,9076,gwangjusieul,abroad,0,0,1,0,Gyeonggi-do_56,485,115,84,FALSE,d,TRUE,FALSE,Gyeonggi-do_56
+12065,9076,yangjusi,baegseogeubjei4tu,1,0,0,0,Gyeonggi-do_57,184319,66262,38795,FALSE,p,FALSE,FALSE,Gyeonggi-do_57
+12123,9076,yangjusi,prevote_in,0,1,0,0,Gyeonggi-do_57,184319,45215,31022,TRUE,p,FALSE,FALSE,Gyeonggi-do_57
+12058,9076,yangjusi,abroad,0,0,1,0,Gyeonggi-do_57,485,110,88,FALSE,d,TRUE,FALSE,Gyeonggi-do_57
+13498,9076,pocheonsigapyeonggun_pocheonsi,gunnaemyeonjei1tu,1,0,0,0,Gyeonggi-do_58,183572,65660,32139,FALSE,p,FALSE,FALSE,Gyeonggi-do_58
+13552,9076,pocheonsigapyeonggun_pocheonsi,prevote_in,0,1,0,0,Gyeonggi-do_58,183572,43204,23015,TRUE,p,FALSE,FALSE,Gyeonggi-do_58
+13429,9076,pocheonsigapyeonggun_gapyeonggun,abroad,0,0,1,0,Gyeonggi-do_58,165,39,11,FALSE,d,TRUE,FALSE,Gyeonggi-do_58
+12186,9076,yeojusiyangpyeonggun_yangpyeonggun,seojongmyeonjei5tu,1,0,0,0,Gyeonggi-do_59,196864,73292,44568,FALSE,p,FALSE,FALSE,Gyeonggi-do_59
+12175,9076,yeojusiyangpyeonggun_yangpyeonggun,prevote_in,0,1,0,0,Gyeonggi-do_59,196864,54924,25964,TRUE,p,FALSE,FALSE,Gyeonggi-do_59
+12230,9076,yeojusiyangpyeonggun_yeojusi,abroad,0,0,1,0,Gyeonggi-do_59,230,42,9,FALSE,d,TRUE,FALSE,Gyeonggi-do_59
+10814,9076,seongnamsisujeonggu,sujin2dongjei4tu,1,0,0,0,Gyeonggi-do_6,204582,71795,40152,FALSE,p,FALSE,FALSE,Gyeonggi-do_6
+10817,9076,seongnamsisujeonggu,prevote_in,0,1,0,0,Gyeonggi-do_6,204582,55362,36516,TRUE,p,FALSE,FALSE,Gyeonggi-do_6
+10760,9076,seongnamsisujeonggu,abroad,0,0,1,0,Gyeonggi-do_6,717,198,144,FALSE,d,TRUE,FALSE,Gyeonggi-do_6
+10927,9076,seongnamsijungwueongu,sangdaewueon3dongjei1tu,1,0,0,0,Gyeonggi-do_7,191791,68246,34053,FALSE,p,FALSE,FALSE,Gyeonggi-do_7
+10921,9076,seongnamsijungwueongu,prevote_in,0,1,0,0,Gyeonggi-do_7,191791,52365,31806,TRUE,p,FALSE,FALSE,Gyeonggi-do_7
+10867,9076,seongnamsijungwueongu,abroad,0,0,1,0,Gyeonggi-do_7,488,111,82,FALSE,d,TRUE,FALSE,Gyeonggi-do_7
+10658,9076,seongnamsibundanggugab,unjungdongjei3tu,1,0,0,0,Gyeonggi-do_8,206505,96564,53546,FALSE,p,FALSE,FALSE,Gyeonggi-do_8
+10585,9076,seongnamsibundanggugab,prevote_in,0,1,0,0,Gyeonggi-do_8,206505,59111,24447,TRUE,p,FALSE,FALSE,Gyeonggi-do_8
+10582,9076,seongnamsibundanggugab,abroad,0,0,1,0,Gyeonggi-do_8,1599,367,139,FALSE,d,TRUE,FALSE,Gyeonggi-do_8
+10703,9076,seongnamsibundanggueul,jeongja1dongjei3tu,1,0,0,0,Gyeonggi-do_9,193608,88419,37347,FALSE,p,FALSE,FALSE,Gyeonggi-do_9
+10690,9076,seongnamsibundanggueul,prevote_in,0,1,0,0,Gyeonggi-do_9,193608,53863,30834,TRUE,p,FALSE,FALSE,Gyeonggi-do_9
+10672,9076,seongnamsibundanggueul,abroad,0,0,1,0,Gyeonggi-do_9,1631,361,204,FALSE,d,TRUE,FALSE,Gyeonggi-do_9
+8971,7225,pohangsibuggu,heunghaeeubjei7tu,1,0,0,0,Gyeongsangbuk-do_1,229205,98524,66896,FALSE,p,FALSE,FALSE,Gyeongsangbuk-do_1
+8985,7225,pohangsibuggu,prevote_in,0,1,0,0,Gyeongsangbuk-do_1,229205,54037,31958,TRUE,p,FALSE,FALSE,Gyeongsangbuk-do_1
+8961,7225,pohangsibuggu,abroad,0,0,1,0,Gyeongsangbuk-do_1,507,111,46,FALSE,d,TRUE,FALSE,Gyeongsangbuk-do_1
+8157,7225,sangjusimungyeongsi_mungyeongsi,jeomchon5dongjei2tu,1,0,0,0,Gyeongsangbuk-do_10,150486,48689,33716,FALSE,p,FALSE,FALSE,Gyeongsangbuk-do_10
+8264,7225,sangjusimungyeongsi_sangjusi,prevote_in,0,1,0,0,Gyeongsangbuk-do_10,150486,52414,31825,TRUE,p,FALSE,FALSE,Gyeongsangbuk-do_10
+8164,7225,sangjusimungyeongsi_sangjusi,abroad,0,0,1,0,Gyeongsangbuk-do_10,148,39,8,FALSE,d,TRUE,FALSE,Gyeongsangbuk-do_10
+7317,7225,gyeongsansi,seobu2dongjei6tu,1,0,0,0,Gyeongsangbuk-do_11,223931,90504,61095,FALSE,p,FALSE,FALSE,Gyeongsangbuk-do_11
+7283,7225,gyeongsansi,prevote_in,0,1,0,0,Gyeongsangbuk-do_11,223931,48479,27546,TRUE,p,FALSE,FALSE,Gyeongsangbuk-do_11
+7235,7225,gyeongsansi,abroad,0,0,1,0,Gyeongsangbuk-do_11,440,107,40,FALSE,d,TRUE,FALSE,Gyeongsangbuk-do_11
+7941,7225,gunwiguneuiseongguncheongsonggunyeongdeoggun_euiseonggun,anpyeongmyeontupyoso,1,0,0,0,Gyeongsangbuk-do_12,127451,38776,31692,FALSE,p,FALSE,FALSE,Gyeongsangbuk-do_12
+7844,7225,gunwiguneuiseongguncheongsonggunyeongdeoggun_yeongdeoggun,prevote_in,0,1,0,0,Gyeongsangbuk-do_12,127451,51376,39818,TRUE,p,FALSE,FALSE,Gyeongsangbuk-do_12
+7841,7225,gunwiguneuiseongguncheongsonggunyeongdeoggun_yeongdeoggun,abroad,0,0,1,0,Gyeongsangbuk-do_12,40,8,3,FALSE,d,TRUE,FALSE,Gyeongsangbuk-do_12
+7597,7225,goryeonggunseongjugunchilgoggun_chilgoggun,seogjeogeubjei6tu,1,0,0,0,Gyeongsangbuk-do_13,165382,61223,40757,FALSE,p,FALSE,FALSE,Gyeongsangbuk-do_13
+7548,7225,goryeonggunseongjugunchilgoggun_seongjugun,prevote_in,0,1,0,0,Gyeongsangbuk-do_13,165382,42730,24451,TRUE,p,FALSE,FALSE,Gyeongsangbuk-do_13
+7569,7225,goryeonggunseongjugunchilgoggun_chilgoggun,abroad,0,0,1,0,Gyeongsangbuk-do_13,170,43,15,FALSE,d,TRUE,FALSE,Gyeongsangbuk-do_13
+8868,7225,pohangsinamguulreunggun_pohangsinamgu,ocheoneubjei3tu,1,0,0,0,Gyeongsangbuk-do_2,206209,86145,50918,FALSE,p,FALSE,FALSE,Gyeongsangbuk-do_2
+8837,7225,pohangsinamguulreunggun_ulreunggun,prevote_in,0,1,0,0,Gyeongsangbuk-do_2,206209,47705,23838,TRUE,p,FALSE,FALSE,Gyeongsangbuk-do_2
+8845,7225,pohangsinamguulreunggun_pohangsinamgu,abroad,0,0,1,0,Gyeongsangbuk-do_2,405,114,38,FALSE,d,TRUE,FALSE,Gyeongsangbuk-do_2
+7372,7225,gyeongjusi,geoncheoneubjei1tu,1,0,0,0,Gyeongsangbuk-do_3,221009,77510,42242,FALSE,p,FALSE,FALSE,Gyeongsangbuk-do_3
+7371,7225,gyeongjusi,prevote_in,0,1,0,0,Gyeongsangbuk-do_3,221009,68743,34818,TRUE,p,FALSE,FALSE,Gyeongsangbuk-do_3
+7355,7225,gyeongjusi,abroad,0,0,1,0,Gyeongsangbuk-do_3,503,116,40,FALSE,d,TRUE,FALSE,Gyeongsangbuk-do_3
+8073,7225,gimcheonsi,daesindongjei5tu,1,0,0,0,Gyeongsangbuk-do_4,120468,37668,29582,FALSE,p,FALSE,FALSE,Gyeongsangbuk-do_4
+8014,7225,gimcheonsi,prevote_in,0,1,0,0,Gyeongsangbuk-do_4,120468,42774,30373,TRUE,p,FALSE,FALSE,Gyeongsangbuk-do_4
+7995,7225,gimcheonsi,abroad,0,0,1,0,Gyeongsangbuk-do_4,234,56,35,FALSE,d,TRUE,FALSE,Gyeongsangbuk-do_4
+8333,7225,andongsiyeicheongun_andongsi,yeianmyeonjei1tu,1,0,0,0,Gyeongsangbuk-do_5,184579,63932,31001,FALSE,p,FALSE,FALSE,Gyeongsangbuk-do_5
+8434,7225,andongsiyeicheongun_yeicheongun,prevote_in,0,1,0,0,Gyeongsangbuk-do_5,184579,59504,27160,TRUE,p,FALSE,FALSE,Gyeongsangbuk-do_5
+8283,7225,andongsiyeicheongun_andongsi,abroad,0,0,1,0,Gyeongsangbuk-do_5,221,52,13,FALSE,d,TRUE,FALSE,Gyeongsangbuk-do_5
+7671,7225,gumisigab,hyeonggog1dongjei2tu,1,0,0,0,Gyeongsangbuk-do_6,177336,69501,48511,FALSE,p,FALSE,FALSE,Gyeongsangbuk-do_6
+7675,7225,gumisigab,prevote_in,0,1,0,0,Gyeongsangbuk-do_6,177336,42237,24797,TRUE,p,FALSE,FALSE,Gyeongsangbuk-do_6
+7630,7225,gumisigab,abroad,0,0,1,0,Gyeongsangbuk-do_6,343,90,29,FALSE,d,TRUE,FALSE,Gyeongsangbuk-do_6
+7729,7225,gumisieul,seonsaneubjei3tu,1,0,0,0,Gyeongsangbuk-do_7,162168,60830,36166,FALSE,p,FALSE,FALSE,Gyeongsangbuk-do_7
+7722,7225,gumisieul,prevote_out,0,1,0,0,Gyeongsangbuk-do_7,162168,35573,18243,TRUE,d,FALSE,FALSE,Gyeongsangbuk-do_7
+7723,7225,gumisieul,abroad,0,0,1,0,Gyeongsangbuk-do_7,258,77,38,FALSE,d,TRUE,FALSE,Gyeongsangbuk-do_7
+8777,7225,yeongcheonsicheongdogun_cheongdogun,cheongdoeubjei5tu,1,0,0,0,Gyeongsangbuk-do_8,158759,59532,40203,FALSE,p,FALSE,FALSE,Gyeongsangbuk-do_8
+8797,7225,yeongcheonsicheongdogun_cheongdogun,prevote_in,0,1,0,0,Gyeongsangbuk-do_8,158759,49793,29070,TRUE,p,FALSE,FALSE,Gyeongsangbuk-do_8
+8472,7225,yeongjusiyeongyanggunbonghwagunuljingun_bonghwagun,abroad,0,0,1,0,Gyeongsangbuk-do_8,34,14,6,FALSE,d,TRUE,FALSE,Gyeongsangbuk-do_8
+8562,7225,yeongjusiyeongyanggunbonghwagunuljingun_yeongjusi,pyeongeunmyeontupyoso,1,0,0,0,Gyeongsangbuk-do_9,149371,52476,30181,FALSE,p,FALSE,FALSE,Gyeongsangbuk-do_9
+8664,7225,yeongjusiyeongyanggunbonghwagunuljingun_uljingun,prevote_in,0,1,0,0,Gyeongsangbuk-do_9,149371,48996,26103,TRUE,p,FALSE,FALSE,Gyeongsangbuk-do_9
+8518,7225,yeongjusiyeongyanggunbonghwagunuljingun_yeongyanggun,abroad,0,0,1,0,Gyeongsangbuk-do_9,27,7,5,FALSE,d,TRUE,FALSE,Gyeongsangbuk-do_9
+15448,13924,changwueonsieuichanggu,myeonggogdongjei7tu,1,0,0,0,Gyeongsangnam-do_1,221394,98122,61651,FALSE,p,FALSE,FALSE,Gyeongsangnam-do_1
+15454,13924,changwueonsieuichanggu,prevote_in,0,1,0,0,Gyeongsangnam-do_1,221394,52005,27030,TRUE,p,FALSE,FALSE,Gyeongsangnam-do_1
+15391,13924,changwueonsieuichanggu,abroad,0,0,1,0,Gyeongsangnam-do_1,455,115,34,FALSE,d,TRUE,FALSE,Gyeongsangnam-do_1
+14094,13924,gimhaesigab,bugbudongjei7tu,1,0,0,0,Gyeongsangnam-do_10,219444,83805,39115,FALSE,p,FALSE,FALSE,Gyeongsangnam-do_10
+14105,13924,gimhaesigab,prevote_in,0,1,0,0,Gyeongsangnam-do_10,219444,53351,30899,TRUE,p,FALSE,FALSE,Gyeongsangnam-do_10
+14044,13924,gimhaesigab,abroad,0,0,1,0,Gyeongsangnam-do_10,419,104,77,FALSE,d,TRUE,FALSE,Gyeongsangnam-do_10
+14188,13924,gimhaesieul,jangyu2dongjei3tu,1,0,0,0,Gyeongsangnam-do_11,222760,89700,40737,FALSE,p,FALSE,FALSE,Gyeongsangnam-do_11
+14135,13924,gimhaesieul,prevote_out,0,1,0,0,Gyeongsangnam-do_11,222760,54373,30817,TRUE,d,FALSE,FALSE,Gyeongsangnam-do_11
+14136,13924,gimhaesieul,abroad,0,0,1,0,Gyeongsangnam-do_11,407,102,66,FALSE,d,TRUE,FALSE,Gyeongsangnam-do_11
+14283,13924,milyangsieuiryeonggunhamangunchangnyeonggun_milyangsi,gagogdongjei1tu,1,0,0,0,Gyeongsangnam-do_12,228709,81048,58483,FALSE,p,FALSE,FALSE,Gyeongsangnam-do_12
+14406,13924,milyangsieuiryeonggunhamangunchangnyeonggun_hamangun,prevote_in,0,1,0,0,Gyeongsangnam-do_12,228709,69162,43695,TRUE,p,FALSE,FALSE,Gyeongsangnam-do_12
+14288,13924,milyangsieuiryeonggunhamangunchangnyeonggun_euiryeonggun,abroad,0,0,1,0,Gyeongsangnam-do_12,33,5,4,FALSE,d,TRUE,FALSE,Gyeongsangnam-do_12
+14000,13924,geojeisi,ogpo2dongjei4tu,1,0,0,0,Gyeongsangnam-do_13,197014,76646,41348,FALSE,p,FALSE,FALSE,Gyeongsangnam-do_13
+14013,13924,geojeisi,prevote_in,0,1,0,0,Gyeongsangnam-do_13,197014,52473,24380,TRUE,p,FALSE,FALSE,Gyeongsangnam-do_13
+13936,13924,geojeisi,abroad,0,0,1,0,Gyeongsangnam-do_13,335,59,16,FALSE,d,TRUE,FALSE,Gyeongsangnam-do_13
+14865,13924,yangsansigab,sangbugmyeonjei1tu,1,0,0,0,Gyeongsangnam-do_14,153115,68665,40946,FALSE,p,FALSE,FALSE,Gyeongsangnam-do_14
+14830,13924,yangsansigab,prevote_out,0,1,0,0,Gyeongsangnam-do_14,153115,31796,16330,TRUE,d,FALSE,FALSE,Gyeongsangnam-do_14
+14831,13924,yangsansigab,abroad,0,0,1,0,Gyeongsangnam-do_14,301,66,24,FALSE,d,TRUE,FALSE,Gyeongsangnam-do_14
+14938,13924,yangsansieul,sojudongjei3tu,1,0,0,0,Gyeongsangnam-do_15,135250,58177,26165,FALSE,p,FALSE,FALSE,Gyeongsangnam-do_15
+14901,13924,yangsansieul,prevote_out,0,1,0,0,Gyeongsangnam-do_15,135250,32076,17991,TRUE,d,FALSE,FALSE,Gyeongsangnam-do_15
+14902,13924,yangsansieul,abroad,0,0,1,0,Gyeongsangnam-do_15,274,81,61,FALSE,d,TRUE,FALSE,Gyeongsangnam-do_15
+14683,13924,sancheonggunhamyanggungeochanggunhabcheongun_sancheonggun,obumyeontupyoso,1,0,0,0,Gyeongsangnam-do_16,161774,55262,25128,FALSE,p,FALSE,FALSE,Gyeongsangnam-do_16
+14823,13924,sancheonggunhamyanggungeochanggunhabcheongun_habcheongun,prevote_in,0,1,0,0,Gyeongsangnam-do_16,161774,60008,25049,TRUE,p,FALSE,FALSE,Gyeongsangnam-do_16
+14620,13924,sancheonggunhamyanggungeochanggunhabcheongun_geochanggun,abroad,0,0,1,0,Gyeongsangnam-do_16,107,25,3,FALSE,d,TRUE,FALSE,Gyeongsangnam-do_16
+15362,13924,changwueonsiseongsangu,gaeumjeongdongjei4tu,1,0,0,0,Gyeongsangnam-do_2,182420,83584,42458,FALSE,p,FALSE,FALSE,Gyeongsangnam-do_2
+15337,13924,changwueonsiseongsangu,prevote_in,0,1,0,0,Gyeongsangnam-do_2,182420,46905,19287,TRUE,p,FALSE,FALSE,Gyeongsangnam-do_2
+15313,13924,changwueonsiseongsangu,abroad,0,0,1,0,Gyeongsangnam-do_2,410,102,34,FALSE,d,TRUE,FALSE,Gyeongsangnam-do_2
+15165,13924,changwueonsimasanhabpogu,wueolyeongdongjei3tu,1,0,0,0,Gyeongsangnam-do_3,152019,61080,41306,FALSE,p,FALSE,FALSE,Gyeongsangnam-do_3
+15177,13924,changwueonsimasanhabpogu,prevote_in,0,1,0,0,Gyeongsangnam-do_3,152019,41585,23372,TRUE,p,FALSE,FALSE,Gyeongsangnam-do_3
+15133,13924,changwueonsimasanhabpogu,abroad,0,0,1,0,Gyeongsangnam-do_3,317,93,25,FALSE,d,TRUE,FALSE,Gyeongsangnam-do_3
+15230,13924,changwueonsimasanhwaiwueongu,naeseoeubjei2tu,1,0,0,0,Gyeongsangnam-do_4,164682,72349,43108,FALSE,p,FALSE,FALSE,Gyeongsangnam-do_4
+15278,13924,changwueonsimasanhwaiwueongu,prevote_in,0,1,0,0,Gyeongsangnam-do_4,164682,42041,21452,TRUE,p,FALSE,FALSE,Gyeongsangnam-do_4
+15225,13924,changwueonsimasanhwaiwueongu,abroad,0,0,1,0,Gyeongsangnam-do_4,254,56,17,FALSE,d,TRUE,FALSE,Gyeongsangnam-do_4
+15492,13924,changwueonsijinhaegu,taebaegdongjei1tu,1,0,0,0,Gyeongsangnam-do_5,155273,60023,32588,FALSE,p,FALSE,FALSE,Gyeongsangnam-do_5
+15508,13924,changwueonsijinhaegu,prevote_in,0,1,0,0,Gyeongsangnam-do_5,155273,43419,19391,TRUE,p,FALSE,FALSE,Gyeongsangnam-do_5
+15477,13924,changwueonsijinhaegu,abroad,0,0,1,0,Gyeongsangnam-do_5,419,90,20,FALSE,d,TRUE,FALSE,Gyeongsangnam-do_5
+14973,13924,jinjusigab,munsaneubjei2tu,1,0,0,0,Gyeongsangnam-do_6,160518,62835,37271,FALSE,p,FALSE,FALSE,Gyeongsangnam-do_6
+15041,13924,jinjusigab,prevote_in,0,1,0,0,Gyeongsangnam-do_6,160518,46862,22817,TRUE,p,FALSE,FALSE,Gyeongsangnam-do_6
+14968,13924,jinjusigab,abroad,0,0,1,0,Gyeongsangnam-do_6,315,83,23,FALSE,d,TRUE,FALSE,Gyeongsangnam-do_6
+15095,13924,jinjusieul,sangpyeongdongjei2tu,1,0,0,0,Gyeongsangnam-do_7,129567,48045,30313,FALSE,p,FALSE,FALSE,Gyeongsangnam-do_7
+15057,13924,jinjusieul,prevote_in,0,1,0,0,Gyeongsangnam-do_7,129567,36977,19888,TRUE,p,FALSE,FALSE,Gyeongsangnam-do_7
+15054,13924,jinjusieul,abroad,0,0,1,0,Gyeongsangnam-do_7,208,50,16,FALSE,d,TRUE,FALSE,Gyeongsangnam-do_7
+15691,13924,tongyeongsigoseonggun_tongyeongsi,bongpyeongdongjei4tu,1,0,0,0,Gyeongsangnam-do_8,155426,58115,36851,FALSE,p,FALSE,FALSE,Gyeongsangnam-do_8
+15609,13924,tongyeongsigoseonggun_tongyeongsi,prevote_out,0,1,0,0,Gyeongsangnam-do_8,155426,45198,23440,TRUE,d,FALSE,FALSE,Gyeongsangnam-do_8
+15554,13924,tongyeongsigoseonggun_goseonggun,abroad,0,0,1,0,Gyeongsangnam-do_8,72,16,7,FALSE,d,TRUE,FALSE,Gyeongsangnam-do_8
+14474,13924,sacheonsinamhaegunhadonggun_namhaegun,gohyeonmyeonjei2tu,1,0,0,0,Gyeongsangnam-do_9,175599,59617,38139,FALSE,p,FALSE,FALSE,Gyeongsangnam-do_9
+14547,13924,sacheonsinamhaegunhadonggun_sacheonsi,prevote_in,0,1,0,0,Gyeongsangnam-do_9,175599,60491,33451,TRUE,p,FALSE,FALSE,Gyeongsangnam-do_9
+14559,13924,sacheonsinamhaegunhadonggun_hadonggun,abroad,0,0,1,0,Gyeongsangnam-do_9,109,26,11,FALSE,d,TRUE,FALSE,Gyeongsangnam-do_9
+16846,15692,jungguganghwagunongjingun_junggu,yeongjong1dongjei1tu,1,0,0,0,Incheon Metropolitan City_1,195095,69184,39616,FALSE,p,FALSE,FALSE,Incheon Metropolitan City_1
+16755,15692,jungguganghwagunongjingun_ongjingun,prevote_in,0,1,0,0,Incheon Metropolitan City_1,195095,54875,31606,TRUE,p,FALSE,FALSE,Incheon Metropolitan City_1
+16787,15692,jungguganghwagunongjingun_junggu,abroad,0,0,1,0,Incheon Metropolitan City_1,477,121,89,FALSE,d,TRUE,FALSE,Incheon Metropolitan City_1
+15715,15692,gyeiyanggugab,hyoseong2dongjei2tu,1,0,0,0,Incheon Metropolitan City_10,117853,45367,25612,FALSE,p,FALSE,FALSE,Incheon Metropolitan City_10
+15721,15692,gyeiyanggugab,prevote_in,0,1,0,0,Incheon Metropolitan City_10,117853,28073,18791,TRUE,p,FALSE,FALSE,Incheon Metropolitan City_10
+15701,15692,gyeiyanggugab,abroad,0,0,1,0,Incheon Metropolitan City_10,274,74,63,FALSE,d,TRUE,FALSE,Incheon Metropolitan City_10
+15760,15692,gyeiyanggueul,gyeisan1dongjei4tu,1,0,0,0,Incheon Metropolitan City_11,142131,53541,28980,FALSE,p,FALSE,FALSE,Incheon Metropolitan City_11
+15776,15692,gyeiyanggueul,prevote_in,0,1,0,0,Incheon Metropolitan City_11,142131,34683,22769,TRUE,p,FALSE,FALSE,Incheon Metropolitan City_11
+15753,15692,gyeiyanggueul,abroad,0,0,1,0,Incheon Metropolitan City_11,371,88,68,FALSE,d,TRUE,FALSE,Incheon Metropolitan City_11
+16374,15692,seogugab,abroad_office,1,0,0,0,Incheon Metropolitan City_12,225295,88101,43629,FALSE,d,FALSE,FALSE,Incheon Metropolitan City_12
+16394,15692,seogugab,prevote_in,0,1,0,0,Incheon Metropolitan City_12,225295,54670,32347,TRUE,p,FALSE,FALSE,Incheon Metropolitan City_12
+16373,15692,seogugab,abroad,0,0,1,0,Incheon Metropolitan City_12,532,121,92,FALSE,d,TRUE,FALSE,Incheon Metropolitan City_12
+16503,15692,seogueul,geomdandongjei6tu,1,0,0,0,Incheon Metropolitan City_13,220717,84280,49036,FALSE,p,FALSE,FALSE,Incheon Metropolitan City_13
+16463,15692,seogueul,prevote_out,0,1,0,0,Incheon Metropolitan City_13,220717,51285,34504,TRUE,d,FALSE,FALSE,Incheon Metropolitan City_13
+16464,15692,seogueul,abroad,0,0,1,0,Incheon Metropolitan City_13,676,165,128,FALSE,d,TRUE,FALSE,Incheon Metropolitan City_13
+16090,15692,donggumichuholgugab_michuholgu,juan6dongjei2tu,1,0,0,0,Incheon Metropolitan City_2,221506,75344,33798,FALSE,p,FALSE,FALSE,Incheon Metropolitan City_2
+15990,15692,donggumichuholgugab_donggu,prevote_out,0,1,0,0,Incheon Metropolitan City_2,221506,54653,29576,TRUE,d,FALSE,FALSE,Incheon Metropolitan City_2
+16041,15692,donggumichuholgugab_michuholgu,abroad,0,0,1,0,Incheon Metropolitan City_2,390,103,71,FALSE,d,TRUE,FALSE,Incheon Metropolitan City_2
+16174,15692,donggumichuholgueul_michuholgu,hagig2dongjei3tu,1,0,0,0,Incheon Metropolitan City_3,186812,68628,29428,FALSE,p,FALSE,FALSE,Incheon Metropolitan City_3
+16171,15692,donggumichuholgueul_michuholgu,prevote_in,0,1,0,0,Incheon Metropolitan City_3,186812,45780,17054,TRUE,p,FALSE,FALSE,Incheon Metropolitan City_3
+16116,15692,donggumichuholgueul_michuholgu,abroad,0,0,1,0,Incheon Metropolitan City_3,448,119,10,FALSE,d,TRUE,FALSE,Incheon Metropolitan City_3
+16540,15692,yeonsugugab,disabled_ship,0,0,0,1,Incheon Metropolitan City_4,124547,0,0,FALSE,d,FALSE,TRUE,Incheon Metropolitan City_4
+16552,15692,yeonsugugab,prevote_in,0,1,0,0,Incheon Metropolitan City_4,124547,32686,20584,TRUE,p,FALSE,FALSE,Incheon Metropolitan City_4
+16542,15692,yeonsugugab,abroad,0,0,1,0,Incheon Metropolitan City_4,409,110,82,FALSE,d,TRUE,FALSE,Incheon Metropolitan City_4
+16629,15692,yeonsugueul,songdo1dongjei2tu,1,0,0,0,Incheon Metropolitan City_5,175670,80880,30713,FALSE,p,FALSE,FALSE,Incheon Metropolitan City_5
+16656,15692,yeonsugueul,prevote_in,0,1,0,0,Incheon Metropolitan City_5,175670,45303,21982,TRUE,p,FALSE,FALSE,Incheon Metropolitan City_5
+16603,15692,yeonsugueul,abroad,0,0,1,0,Incheon Metropolitan City_5,852,190,111,FALSE,d,TRUE,FALSE,Incheon Metropolitan City_5
+15884,15692,namdonggugab,nonhyeongojandongjei3tu,1,0,0,0,Incheon Metropolitan City_6,218647,83278,41680,FALSE,p,FALSE,FALSE,Incheon Metropolitan City_6
+15871,15692,namdonggugab,prevote_in,0,1,0,0,Incheon Metropolitan City_6,218647,50365,30970,TRUE,p,FALSE,FALSE,Incheon Metropolitan City_6
+15812,15692,namdonggugab,abroad,0,0,1,0,Incheon Metropolitan City_6,559,160,120,FALSE,d,TRUE,FALSE,Incheon Metropolitan City_6
+15931,15692,namdonggueul,mansu1dongjei5tu,1,0,0,0,Incheon Metropolitan City_7,227960,88403,44872,FALSE,p,FALSE,FALSE,Incheon Metropolitan City_7
+15961,15692,namdonggueul,prevote_in,0,1,0,0,Incheon Metropolitan City_7,227960,55811,33804,TRUE,p,FALSE,FALSE,Incheon Metropolitan City_7
+15899,15692,namdonggueul,abroad,0,0,1,0,Incheon Metropolitan City_7,585,163,117,FALSE,d,TRUE,FALSE,Incheon Metropolitan City_7
+16259,15692,bupyeonggugab,bugae1dongjei2tu,1,0,0,0,Incheon Metropolitan City_8,231765,84355,44653,FALSE,p,FALSE,FALSE,Incheon Metropolitan City_8
+16251,15692,bupyeonggugab,prevote_in,0,1,0,0,Incheon Metropolitan City_8,231765,52120,32673,TRUE,p,FALSE,FALSE,Incheon Metropolitan City_8
+16194,15692,bupyeonggugab,abroad,0,0,1,0,Incheon Metropolitan City_8,619,169,133,FALSE,d,TRUE,FALSE,Incheon Metropolitan City_8
+16301,15692,bupyeonggueul,sangog2dongjei3tu,1,0,0,0,Incheon Metropolitan City_9,204339,80775,42091,FALSE,p,FALSE,FALSE,Incheon Metropolitan City_9
+16298,15692,bupyeonggueul,prevote_in,0,1,0,0,Incheon Metropolitan City_9,204339,51348,32031,TRUE,p,FALSE,FALSE,Incheon Metropolitan City_9
+16288,15692,bupyeonggueul,abroad,0,0,1,0,Incheon Metropolitan City_9,597,184,141,FALSE,d,TRUE,FALSE,Incheon Metropolitan City_9
+17082,16854,jeijusigab,nohyeongdongjei3tu,1,0,0,0,Jeju Special Self-Governing Province_1,208193,79209,35898,FALSE,p,FALSE,FALSE,Jeju Special Self-Governing Province_1
+17016,16854,jeijusigab,prevote_in,0,1,0,0,Jeju Special Self-Governing Province_1,208193,47229,25651,TRUE,p,FALSE,FALSE,Jeju Special Self-Governing Province_1
+16998,16854,jeijusigab,abroad,0,0,1,0,Jeju Special Self-Governing Province_1,467,100,76,FALSE,d,TRUE,FALSE,Jeju Special Self-Governing Province_1
+17155,16854,jeijusieul,ido1dongjei2tu,1,0,0,0,Jeju Special Self-Governing Province_2,191472,73603,37896,FALSE,p,FALSE,FALSE,Jeju Special Self-Governing Province_2
+17115,16854,jeijusieul,prevote_in,0,1,0,0,Jeju Special Self-Governing Province_2,191472,47720,29253,TRUE,p,FALSE,FALSE,Jeju Special Self-Governing Province_2
+17112,16854,jeijusieul,abroad,0,0,1,0,Jeju Special Self-Governing Province_2,390,85,56,FALSE,d,TRUE,FALSE,Jeju Special Self-Governing Province_2
+16892,16854,seogwiposi,namwueoneubjei14tu,1,0,0,0,Jeju Special Self-Governing Province_3,152337,55937,28568,FALSE,p,FALSE,FALSE,Jeju Special Self-Governing Province_3
+16958,16854,seogwiposi,prevote_in,0,1,0,0,Jeju Special Self-Governing Province_3,152337,40116,24707,TRUE,p,FALSE,FALSE,Jeju Special Self-Governing Province_3
+16861,16854,seogwiposi,abroad,0,0,1,0,Jeju Special Self-Governing Province_3,339,82,63,FALSE,d,TRUE,FALSE,Jeju Special Self-Governing Province_3
+18109,17204,jeonjusigab,inhu3dongjei6tu,1,0,0,0,Jeollabuk do_1,145479,46124,32698,FALSE,p,FALSE,FALSE,Jeollabuk do_1
+18066,17204,jeonjusigab,prevote_in,0,1,0,0,Jeollabuk do_1,145479,45998,35068,TRUE,p,FALSE,FALSE,Jeollabuk do_1
+18043,17204,jeonjusigab,abroad,0,0,1,0,Jeollabuk do_1,383,93,79,FALSE,d,TRUE,FALSE,Jeollabuk do_1
+17731,17204,wanjugunjinangunmujugunjangsugun_wanjugun,abroad_office,1,0,0,0,Jeollabuk do_10,142158,44009,23054,FALSE,d,FALSE,FALSE,Jeollabuk do_10
+17739,17204,wanjugunjinangunmujugunjangsugun_wanjugun,prevote_in,0,1,0,0,Jeollabuk do_10,142158,56095,33888,TRUE,p,FALSE,FALSE,Jeollabuk do_10
+17698,17204,wanjugunjinangunmujugunjangsugun_mujugun,abroad,0,0,1,0,Jeollabuk do_10,45,15,9,FALSE,d,TRUE,FALSE,Jeollabuk do_10
+18262,17204,jeonjusieul,samcheon3dongjei5tu,1,0,0,0,Jeollabuk do_2,165515,58482,34778,FALSE,p,FALSE,FALSE,Jeollabuk do_2
+18234,17204,jeonjusieul,prevote_in,0,1,0,0,Jeollabuk do_2,165515,49481,32734,TRUE,p,FALSE,FALSE,Jeollabuk do_2
+18231,17204,jeonjusieul,abroad,0,0,1,0,Jeollabuk do_2,390,70,52,FALSE,d,TRUE,FALSE,Jeollabuk do_2
+18165,17204,jeonjusibyeong,ua2dongjei1tu,1,0,0,0,Jeollabuk do_3,231775,81700,51457,FALSE,p,FALSE,FALSE,Jeollabuk do_3
+18191,17204,jeonjusibyeong,prevote_in,0,1,0,0,Jeollabuk do_3,231775,74300,52507,TRUE,p,FALSE,FALSE,Jeollabuk do_3
+18117,17204,jeonjusibyeong,abroad,0,0,1,0,Jeollabuk do_3,435,85,69,FALSE,d,TRUE,FALSE,Jeollabuk do_3
+17313,17204,gunsansi,susongdongjei10tu,1,0,0,0,Jeollabuk do_4,225207,74000,43609,FALSE,p,FALSE,FALSE,Jeollabuk do_4
+17216,17204,gunsansi,prevote_in,0,1,0,0,Jeollabuk do_4,225207,75863,45168,TRUE,p,FALSE,FALSE,Jeollabuk do_4
+17213,17204,gunsansi,abroad,0,0,1,0,Jeollabuk do_4,386,91,69,FALSE,d,TRUE,FALSE,Jeollabuk do_4
+17881,17204,igsansigab,osanmyeonjei1tu,1,0,0,0,Jeollabuk do_5,118547,35852,27713,FALSE,p,FALSE,FALSE,Jeollabuk do_5
+17943,17204,igsansigab,prevote_in,0,1,0,0,Jeollabuk do_5,118547,38240,31296,TRUE,p,FALSE,FALSE,Jeollabuk do_5
+17873,17204,igsansigab,abroad,0,0,1,0,Jeollabuk do_5,222,43,31,FALSE,d,TRUE,FALSE,Jeollabuk do_5
+17990,17204,igsansieul,dongsandongjei1tu,1,0,0,0,Jeollabuk do_6,124454,37028,26224,FALSE,p,FALSE,FALSE,Jeollabuk do_6
+18006,17204,igsansieul,prevote_in,0,1,0,0,Jeollabuk do_6,124454,41404,30714,TRUE,p,FALSE,FALSE,Jeollabuk do_6
+17963,17204,igsansieul,abroad,0,0,1,0,Jeollabuk do_6,222,55,41,FALSE,d,TRUE,FALSE,Jeollabuk do_6
+18354,17204,jeongeubsigochanggun_gochanggun,seongnaemyeonjei1tu,1,0,0,0,Jeollabuk do_7,144501,43141,29328,FALSE,p,FALSE,FALSE,Jeollabuk do_7
+18410,17204,jeongeubsigochanggun_jeongeubsi,prevote_in,0,1,0,0,Jeollabuk do_7,144501,50067,35709,TRUE,p,FALSE,FALSE,Jeollabuk do_7
+18305,17204,jeongeubsigochanggun_gochanggun,abroad,0,0,1,0,Jeollabuk do_7,85,18,13,FALSE,d,TRUE,FALSE,Jeollabuk do_7
+17562,17204,namwueonsiimsilgungunchanggun_namwueonsi,dongchungdongtupyoso,1,0,0,0,Jeollabuk do_8,120251,32619,17499,FALSE,p,FALSE,FALSE,Jeollabuk do_8
+17672,17204,namwueonsiimsilgungunchanggun_imsilgun,prevote_in,0,1,0,0,Jeollabuk do_8,120251,54453,29656,TRUE,p,FALSE,FALSE,Jeollabuk do_8
+17508,17204,namwueonsiimsilgungunchanggun_namwueonsi,abroad,0,0,1,0,Jeollabuk do_8,128,26,3,FALSE,d,TRUE,FALSE,Jeollabuk do_8
+17424,17204,gimjeisibuangun_gimjeisi,sinpungdongjei1tu,1,0,0,0,Jeollabuk do_9,121172,35540,22932,FALSE,p,FALSE,FALSE,Jeollabuk do_9
+17430,17204,gimjeisibuangun_gimjeisi,prevote_in,0,1,0,0,Jeollabuk do_9,121172,42365,29014,TRUE,p,FALSE,FALSE,Jeollabuk do_9
+17444,17204,gimjeisibuangun_buangun,abroad,0,0,1,0,Jeollabuk do_9,81,18,13,FALSE,d,TRUE,FALSE,Jeollabuk do_9
+19136,18461,mogposi,samhagdongjei1tu,1,0,0,0,Jeollanam-do_1,189332,55014,24739,FALSE,p,FALSE,FALSE,Jeollanam-do_1
+19101,18461,mogposi,prevote_in,0,1,0,0,Jeollanam-do_1,189332,72197,37286,TRUE,p,FALSE,FALSE,Jeollanam-do_1
+19092,18461,mogposi,abroad,0,0,1,0,Jeollanam-do_1,283,54,37,FALSE,d,TRUE,FALSE,Jeollanam-do_1
+19745,18461,yeongamgunmuangunsinangun_muangun,samhyangeubjei5tu,1,0,0,0,Jeollanam-do_10,150792,45577,34010,FALSE,p,FALSE,FALSE,Jeollanam-do_10
+19841,18461,yeongamgunmuangunsinangun_sinangun,prevote_in,0,1,0,0,Jeollanam-do_10,150792,51391,40618,TRUE,p,FALSE,FALSE,Jeollanam-do_10
+19723,18461,yeongamgunmuangunsinangun_muangun,abroad,0,0,1,0,Jeollanam-do_10,98,17,14,FALSE,d,TRUE,FALSE,Jeollanam-do_10
+19620,18461,yeosusigab,mipyeongdongjei1tu,1,0,0,0,Jeollanam-do_2,118636,39610,24357,FALSE,p,FALSE,FALSE,Jeollanam-do_2
+19546,18461,yeosusigab,prevote_in,0,1,0,0,Jeollanam-do_2,118636,35453,24006,TRUE,p,FALSE,FALSE,Jeollanam-do_2
+19536,18461,yeosusigab,abroad,0,0,1,0,Jeollanam-do_2,192,54,46,FALSE,d,TRUE,FALSE,Jeollanam-do_2
+19658,18461,yeosusieul,yulchonmyeonjei4tu,1,0,0,0,Jeollanam-do_3,120358,42482,29376,FALSE,p,FALSE,FALSE,Jeollanam-do_3
+19713,18461,yeosusieul,prevote_in,0,1,0,0,Jeollanam-do_3,120358,34695,25869,TRUE,p,FALSE,FALSE,Jeollanam-do_3
+19643,18461,yeosusieul,abroad,0,0,1,0,Jeollanam-do_3,182,37,26,FALSE,d,TRUE,FALSE,Jeollanam-do_3
+19336,18461,suncheonsigwangyangsigogseonggunguryeigungab_suncheonsi,wangjo2dongjei1tu,1,0,0,0,Jeollanam-do_4,192502,67250,38040,FALSE,p,FALSE,FALSE,Jeollanam-do_4
+19221,18461,suncheonsigwangyangsigogseonggunguryeigungab_suncheonsi,prevote_in,0,1,0,0,Jeollanam-do_4,192502,66681,40388,TRUE,p,FALSE,FALSE,Jeollanam-do_4
+19218,18461,suncheonsigwangyangsigogseonggunguryeigungab_suncheonsi,abroad,0,0,1,0,Jeollanam-do_4,325,77,52,FALSE,d,TRUE,FALSE,Jeollanam-do_4
+19439,18461,suncheonsigwangyangsigogseonggunguryeiguneul_gwangyangsi,daabmyeonjei1tu,1,0,0,0,Jeollanam-do_5,215290,71979,44855,FALSE,p,FALSE,FALSE,Jeollanam-do_5
+19517,18461,suncheonsigwangyangsigogseonggunguryeiguneul_guryeigun,prevote_in,0,1,0,0,Jeollanam-do_5,215290,70679,47508,TRUE,p,FALSE,FALSE,Jeollanam-do_5
+19399,18461,suncheonsigwangyangsigogseonggunguryeiguneul_gwangyangsi,abroad,0,0,1,0,Jeollanam-do_5,247,75,56,FALSE,d,TRUE,FALSE,Jeollanam-do_5
+18712,18461,najusihwasungun_najusi,abroad_office,1,0,0,0,Jeollanam-do_6,151126,43643,33408,FALSE,d,FALSE,FALSE,Jeollanam-do_6
+18710,18461,najusihwasungun_najusi,prevote_out,0,1,0,0,Jeollanam-do_6,151126,52187,42107,TRUE,d,FALSE,FALSE,Jeollanam-do_6
+18798,18461,najusihwasungun_hwasungun,abroad,0,0,1,0,Jeollanam-do_6,59,20,18,FALSE,d,TRUE,FALSE,Jeollanam-do_6
+18972,18461,damyanggunhampyeonggunyeonggwanggunjangseonggun_yeonggwanggun,yeomsanmyeonjei2tu,1,0,0,0,Jeollanam-do_7,157392,42978,34648,FALSE,p,FALSE,FALSE,Jeollanam-do_7
+18936,18461,damyanggunhampyeonggunyeonggwanggunjangseonggun_yeonggwanggun,prevote_in,0,1,0,0,Jeollanam-do_7,157392,62267,51608,TRUE,p,FALSE,FALSE,Jeollanam-do_7
+18864,18461,damyanggunhampyeonggunyeonggwanggunjangseonggun_damyanggun,abroad,0,0,1,0,Jeollanam-do_7,67,19,17,FALSE,d,TRUE,FALSE,Jeollanam-do_7
+18492,18461,goheunggunboseonggunjangheunggungangjingun_gangjingun,maryangmyeontupyoso,1,0,0,0,Jeollanam-do_8,161396,46589,28769,FALSE,p,FALSE,FALSE,Jeollanam-do_8
+18603,18461,goheunggunboseonggunjangheunggungangjingun_boseonggun,prevote_in,0,1,0,0,Jeollanam-do_8,161396,69198,43954,TRUE,p,FALSE,FALSE,Jeollanam-do_8
+18469,18461,goheunggunboseonggunjangheunggungangjingun_gangjingun,abroad,0,0,1,0,Jeollanam-do_8,40,10,10,FALSE,d,TRUE,FALSE,Jeollanam-do_8
+19981,18461,haenamgunwandogunjindogun_wandogun,bogilmyeonjei2tu,1,0,0,0,Jeollanam-do_9,132714,43631,28571,FALSE,p,FALSE,FALSE,Jeollanam-do_9
+20078,18461,haenamgunwandogunjindogun_haenamgun,prevote_in,0,1,0,0,Jeollanam-do_9,132714,44637,31009,TRUE,p,FALSE,FALSE,Jeollanam-do_9
+19988,18461,haenamgunwandogunjindogun_jindogun,abroad,0,0,1,0,Jeollanam-do_9,37,13,8,FALSE,d,TRUE,FALSE,Jeollanam-do_9
+20132,20106,seijongteugbyeoljachisigab,janggunmyeonjei1tu,1,0,0,0,Sejong Special Self-governing City_1,141438,50114,25475,FALSE,p,FALSE,FALSE,Sejong Special Self-governing City_1
+20125,20106,seijongteugbyeoljachisigab,prevote_in,0,1,0,0,Sejong Special Self-governing City_1,141438,48861,30391,TRUE,p,FALSE,FALSE,Sejong Special Self-governing City_1
+20118,20106,seijongteugbyeoljachisigab,abroad,0,0,1,0,Sejong Special Self-governing City_1,595,117,78,FALSE,d,TRUE,FALSE,Sejong Special Self-governing City_1
+20205,20106,seijongteugbyeoljachisieul,yeondongmyeonjei2tu,1,0,0,0,Sejong Special Self-governing City_2,120886,43737,23063,FALSE,p,FALSE,FALSE,Sejong Special Self-governing City_2
+20200,20106,seijongteugbyeoljachisieul,prevote_in,0,1,0,0,Sejong Special Self-governing City_2,120886,35527,22867,TRUE,p,FALSE,FALSE,Sejong Special Self-governing City_2
+20183,20106,seijongteugbyeoljachisieul,abroad,0,0,1,0,Sejong Special Self-governing City_2,419,92,67,FALSE,d,TRUE,FALSE,Sejong Special Self-governing City_2
+23439,20246,jongrogu,buamdongjei1tu,1,0,0,0,Seoul_1,133339,47590,24099,FALSE,p,FALSE,FALSE,Seoul_1
+23490,20246,jongrogu,prevote_in,0,1,0,0,Seoul_1,133339,46123,30565,TRUE,p,FALSE,FALSE,Seoul_1
+23423,20246,jongrogu,abroad,0,0,1,0,Seoul_1,1177,317,232,FALSE,d,TRUE,FALSE,Seoul_1
+23780,20246,jungranggueul,sangbongjei1dongjei2tu,1,0,0,0,Seoul_10,191745,76496,42027,FALSE,p,FALSE,FALSE,Seoul_10
+23785,20246,jungranggueul,prevote_in,0,1,0,0,Seoul_10,191745,48350,31968,TRUE,p,FALSE,FALSE,Seoul_10
+23775,20246,jungranggueul,abroad,0,0,1,0,Seoul_10,715,191,136,FALSE,d,TRUE,FALSE,Seoul_10
+22508,20246,seongbuggugab,bomundongjei3tu,1,0,0,0,Seoul_11,201075,77291,42991,FALSE,p,FALSE,FALSE,Seoul_11
+22473,20246,seongbuggugab,prevote_in,0,1,0,0,Seoul_11,201075,58577,39718,TRUE,p,FALSE,FALSE,Seoul_11
+22470,20246,seongbuggugab,abroad,0,0,1,0,Seoul_11,1219,325,241,FALSE,d,TRUE,FALSE,Seoul_11
+22554,20246,seongbuggueul,donamjei1dongjei1tu,1,0,0,0,Seoul_12,179971,72199,39532,FALSE,p,FALSE,FALSE,Seoul_12
+22589,20246,seongbuggueul,prevote_in,0,1,0,0,Seoul_12,179971,46759,31043,TRUE,p,FALSE,FALSE,Seoul_12
+22550,20246,seongbuggueul,abroad,0,0,1,0,Seoul_12,772,206,160,FALSE,d,TRUE,FALSE,Seoul_12
+20646,20246,gangbuggugab,suyu3dongjei4tu,1,0,0,0,Seoul_13,140589,49625,26190,FALSE,p,FALSE,FALSE,Seoul_13
+20628,20246,gangbuggugab,prevote_in,0,1,0,0,Seoul_13,140589,35890,23183,TRUE,p,FALSE,FALSE,Seoul_13
+20595,20246,gangbuggugab,abroad,0,0,1,0,Seoul_13,537,149,102,FALSE,d,TRUE,FALSE,Seoul_13
+20662,20246,gangbuggueul,samyangdongjei4tu,1,0,0,0,Seoul_14,136939,55181,33093,FALSE,p,FALSE,FALSE,Seoul_14
+20706,20246,gangbuggueul,prevote_in,0,1,0,0,Seoul_14,136939,33151,23832,TRUE,p,FALSE,FALSE,Seoul_14
+20655,20246,gangbuggueul,abroad,0,0,1,0,Seoul_14,556,121,83,FALSE,d,TRUE,FALSE,Seoul_14
+21696,20246,dobonggugab,chang5dongjei1tu,1,0,0,0,Seoul_15,142082,56122,27639,FALSE,p,FALSE,FALSE,Seoul_15
+21695,20246,dobonggugab,prevote_in,0,1,0,0,Seoul_15,142082,37503,22919,TRUE,p,FALSE,FALSE,Seoul_15
+21649,20246,dobonggugab,abroad,0,0,1,0,Seoul_15,543,122,92,FALSE,d,TRUE,FALSE,Seoul_15
+21748,20246,dobonggueul,banghag3dongjei4tu,1,0,0,0,Seoul_16,148101,60093,29089,FALSE,p,FALSE,FALSE,Seoul_16
+21710,20246,dobonggueul,prevote_out,0,1,0,0,Seoul_16,148101,37401,22570,TRUE,d,FALSE,FALSE,Seoul_16
+21711,20246,dobonggueul,abroad,0,0,1,0,Seoul_16,540,135,94,FALSE,d,TRUE,FALSE,Seoul_16
+21544,20246,nowueongubyeong,sanggyei3Â·4dongjei2tu,1,0,0,0,Seoul_17,150830,62361,30351,FALSE,p,FALSE,FALSE,Seoul_17
+21572,20246,nowueongubyeong,prevote_in,0,1,0,0,Seoul_17,150830,41964,25055,TRUE,p,FALSE,FALSE,Seoul_17
+21523,20246,nowueongubyeong,abroad,0,0,1,0,Seoul_17,605,185,137,FALSE,d,TRUE,FALSE,Seoul_17
+21638,20246,nowueongueul,sanggyei6Â·7dongjei4tu,1,0,0,0,Seoul_18,163050,73159,42960,FALSE,p,FALSE,FALSE,Seoul_18
+21586,20246,nowueongueul,prevote_in,0,1,0,0,Seoul_18,163050,40957,28538,TRUE,p,FALSE,FALSE,Seoul_18
+21583,20246,nowueongueul,abroad,0,0,1,0,Seoul_18,686,173,131,FALSE,d,TRUE,FALSE,Seoul_18
+21469,20246,nowueongugab,wueolgyei1dongjei1tu,1,0,0,0,Seoul_19,138336,59788,31308,FALSE,p,FALSE,FALSE,Seoul_19
+21483,20246,nowueongugab,prevote_in,0,1,0,0,Seoul_19,138336,34960,22464,TRUE,p,FALSE,FALSE,Seoul_19
+21465,20246,nowueongugab,abroad,0,0,1,0,Seoul_19,581,159,115,FALSE,d,TRUE,FALSE,Seoul_19
+23527,20246,jungguseongdonggugab_seongdonggu,seongsu1gajei2dongjei4tu,1,0,0,0,Seoul_2,191129,74501,36593,FALSE,p,FALSE,FALSE,Seoul_2
+23585,20246,jungguseongdonggugab_seongdonggu,prevote_in,0,1,0,0,Seoul_2,191129,54944,33637,TRUE,p,FALSE,FALSE,Seoul_2
+23509,20246,jungguseongdonggugab_seongdonggu,abroad,0,0,1,0,Seoul_2,1032,294,153,FALSE,d,TRUE,FALSE,Seoul_2
+23288,20246,eunpyeonggugab,eungamjei2dongjei5tu,1,0,0,0,Seoul_20,206015,75423,44723,FALSE,p,FALSE,FALSE,Seoul_20
+23283,20246,eunpyeonggugab,prevote_in,0,1,0,0,Seoul_20,206015,58595,41404,TRUE,p,FALSE,FALSE,Seoul_20
+23264,20246,eunpyeonggugab,abroad,0,0,1,0,Seoul_20,902,288,221,FALSE,d,TRUE,FALSE,Seoul_20
+23380,20246,eunpyeonggueul,bulgwangjei1dongjei2tu,1,0,0,0,Seoul_21,209104,81888,42839,FALSE,p,FALSE,FALSE,Seoul_21
+23358,20246,eunpyeonggueul,prevote_in,0,1,0,0,Seoul_21,209104,55269,35872,TRUE,p,FALSE,FALSE,Seoul_21
+23340,20246,eunpyeonggueul,abroad,0,0,1,0,Seoul_21,1025,244,173,FALSE,d,TRUE,FALSE,Seoul_21
+22208,20246,seodaemungugab,cheonyeondongjei3tu,1,0,0,0,Seoul_22,130968,52958,25526,FALSE,p,FALSE,FALSE,Seoul_22
+22236,20246,seodaemungugab,prevote_in,0,1,0,0,Seoul_22,130968,36922,22310,TRUE,p,FALSE,FALSE,Seoul_22
+22195,20246,seodaemungugab,abroad,0,0,1,0,Seoul_22,962,219,141,FALSE,d,TRUE,FALSE,Seoul_22
+22300,20246,seodaemungueul,buggajwajei1dongjei4tu,1,0,0,0,Seoul_23,140617,55402,31388,FALSE,p,FALSE,FALSE,Seoul_23
+22303,20246,seodaemungueul,prevote_in,0,1,0,0,Seoul_23,140617,39428,26756,TRUE,p,FALSE,FALSE,Seoul_23
+22256,20246,seodaemungueul,abroad,0,0,1,0,Seoul_23,769,198,138,FALSE,d,TRUE,FALSE,Seoul_23
+22085,20246,mapogugab,yonggangdongjei5tu,1,0,0,0,Seoul_24,135135,55265,27866,FALSE,p,FALSE,FALSE,Seoul_24
+22087,20246,mapogugab,prevote_in,0,1,0,0,Seoul_24,135135,39373,25118,TRUE,p,FALSE,FALSE,Seoul_24
+22049,20246,mapogugab,abroad,0,0,1,0,Seoul_24,1012,289,176,FALSE,d,TRUE,FALSE,Seoul_24
+22170,20246,mapogueul,seongsan2dongjei4tu,1,0,0,0,Seoul_25,188551,76811,36951,FALSE,p,FALSE,FALSE,Seoul_25
+22177,20246,mapogueul,prevote_in,0,1,0,0,Seoul_25,188551,51876,32190,TRUE,p,FALSE,FALSE,Seoul_25
+22112,20246,mapogueul,abroad,0,0,1,0,Seoul_25,1118,296,194,FALSE,d,TRUE,FALSE,Seoul_25
+22893,20246,yangcheongugab,mog5dongjei9tu,1,0,0,0,Seoul_26,205312,91103,42176,FALSE,p,FALSE,FALSE,Seoul_26
+22916,20246,yangcheongugab,prevote_in,0,1,0,0,Seoul_26,205312,59347,35784,TRUE,p,FALSE,FALSE,Seoul_26
+22848,20246,yangcheongugab,abroad,0,0,1,0,Seoul_26,1435,358,235,FALSE,d,TRUE,FALSE,Seoul_26
+22956,20246,yangcheongueul,sinwueol4dongjei1tu,1,0,0,0,Seoul_27,175757,68171,35846,FALSE,p,FALSE,FALSE,Seoul_27
+22942,20246,yangcheongueul,prevote_in,0,1,0,0,Seoul_27,175757,47669,30785,TRUE,p,FALSE,FALSE,Seoul_27
+22932,20246,yangcheongueul,abroad,0,0,1,0,Seoul_27,656,178,127,FALSE,d,TRUE,FALSE,Seoul_27
+20748,20246,gangseogugab,hwagogjei3dongjei5tu,1,0,0,0,Seoul_28,173038,69276,35324,FALSE,p,FALSE,FALSE,Seoul_28
+20743,20246,gangseogugab,prevote_in,0,1,0,0,Seoul_28,173038,43943,27928,TRUE,p,FALSE,FALSE,Seoul_28
+20722,20246,gangseogugab,abroad,0,0,1,0,Seoul_28,718,193,143,FALSE,d,TRUE,FALSE,Seoul_28
+20879,20246,gangseogueul,gonghangdongjei2tu,1,0,0,0,Seoul_29,175175,71998,36997,FALSE,p,FALSE,FALSE,Seoul_29
+20906,20246,gangseogueul,prevote_in,0,1,0,0,Seoul_29,175175,46531,29524,TRUE,p,FALSE,FALSE,Seoul_29
+20845,20246,gangseogueul,abroad,0,0,1,0,Seoul_29,842,225,162,FALSE,d,TRUE,FALSE,Seoul_29
+23600,20246,jungguseongdonggueul_junggu,sogongdongjei2tu,1,0,0,0,Seoul_3,182621,71530,33076,FALSE,p,FALSE,FALSE,Seoul_3
+23618,20246,jungguseongdonggueul_junggu,prevote_in,0,1,0,0,Seoul_3,182621,51476,30808,TRUE,p,FALSE,FALSE,Seoul_3
+23595,20246,jungguseongdonggueul_junggu,abroad,0,0,1,0,Seoul_3,1158,296,184,FALSE,d,TRUE,FALSE,Seoul_3
+20834,20246,gangseogubyeong,gayangjei3dongjei2tu,1,0,0,0,Seoul_30,160554,61838,33371,FALSE,p,FALSE,FALSE,Seoul_30
+20825,20246,gangseogubyeong,prevote_in,0,1,0,0,Seoul_30,160554,45593,30985,TRUE,p,FALSE,FALSE,Seoul_30
+20785,20246,gangseogubyeong,abroad,0,0,1,0,Seoul_30,797,228,156,FALSE,d,TRUE,FALSE,Seoul_30
+21288,20246,gurogugab,oryujei2dongjei8tu,1,0,0,0,Seoul_31,204937,88724,43411,FALSE,p,FALSE,FALSE,Seoul_31
+21237,20246,gurogugab,prevote_in,0,1,0,0,Seoul_31,204937,51715,32295,TRUE,p,FALSE,FALSE,Seoul_31
+21227,20246,gurogugab,abroad,0,0,1,0,Seoul_31,819,236,159,FALSE,d,TRUE,FALSE,Seoul_31
+21318,20246,gurogueul,sindorimdongjei6tu,1,0,0,0,Seoul_32,145918,57673,29776,FALSE,p,FALSE,FALSE,Seoul_32
+21308,20246,gurogueul,prevote_out,0,1,0,0,Seoul_32,145918,40385,26131,TRUE,d,FALSE,FALSE,Seoul_32
+21309,20246,gurogueul,abroad,0,0,1,0,Seoul_32,726,219,158,FALSE,d,TRUE,FALSE,Seoul_32
+21446,20246,geumcheongu,siheungjei4dongjei2tu,1,0,0,0,Seoul_33,207073,78728,35624,FALSE,p,FALSE,FALSE,Seoul_33
+21438,20246,geumcheongu,prevote_in,0,1,0,0,Seoul_33,207073,51529,28982,TRUE,p,FALSE,FALSE,Seoul_33
+21377,20246,geumcheongu,abroad,0,0,1,0,Seoul_33,657,177,128,FALSE,d,TRUE,FALSE,Seoul_33
+23050,20246,yeongdeungpogugab,dorimdongjei4tu,1,0,0,0,Seoul_34,186958,76270,38622,FALSE,p,FALSE,FALSE,Seoul_34
+23009,20246,yeongdeungpogugab,prevote_out,0,1,0,0,Seoul_34,186958,52213,33624,TRUE,d,FALSE,FALSE,Seoul_34
+23010,20246,yeongdeungpogugab,abroad,0,0,1,0,Seoul_34,1039,271,192,FALSE,d,TRUE,FALSE,Seoul_34
+23093,20246,yeongdeungpogueul,yeoeuidongjei1tu,1,0,0,0,Seoul_35,138504,54430,24012,FALSE,p,FALSE,FALSE,Seoul_35
+23133,20246,yeongdeungpogueul,prevote_in,0,1,0,0,Seoul_35,138504,39026,22925,TRUE,p,FALSE,FALSE,Seoul_35
+23089,20246,yeongdeungpogueul,abroad,0,0,1,0,Seoul_35,880,198,136,FALSE,d,TRUE,FALSE,Seoul_35
+21913,20246,dongjaggugab,abroad_office,1,0,0,0,Seoul_36,184331,74446,37103,FALSE,d,FALSE,FALSE,Seoul_36
+21954,20246,dongjaggugab,prevote_in,0,1,0,0,Seoul_36,184331,52391,33000,TRUE,p,FALSE,FALSE,Seoul_36
+21912,20246,dongjaggugab,abroad,0,0,1,0,Seoul_36,970,282,185,FALSE,d,TRUE,FALSE,Seoul_36
+22023,20246,dongjaggueul,sadangjei3dongjei1tu,1,0,0,0,Seoul_37,160951,68218,31554,FALSE,p,FALSE,FALSE,Seoul_37
+22022,20246,dongjaggueul,prevote_in,0,1,0,0,Seoul_37,160951,49255,29681,TRUE,p,FALSE,FALSE,Seoul_37
+21984,20246,dongjaggueul,abroad,0,0,1,0,Seoul_37,1087,252,171,FALSE,d,TRUE,FALSE,Seoul_37
+20975,20246,gwanaggugab,cheongryongdongjei4tu,1,0,0,0,Seoul_38,241989,85052,43473,FALSE,p,FALSE,FALSE,Seoul_38
+20935,20246,gwanaggugab,prevote_in,0,1,0,0,Seoul_38,241989,63954,39793,TRUE,p,FALSE,FALSE,Seoul_38
+20925,20246,gwanaggugab,abroad,0,0,1,0,Seoul_38,1138,248,209,FALSE,d,TRUE,FALSE,Seoul_38
+21054,20246,gwanaggueul,seowueondongjei3tu,1,0,0,0,Seoul_39,209101,77298,37334,FALSE,p,FALSE,FALSE,Seoul_39
+21071,20246,gwanaggueul,prevote_in,0,1,0,0,Seoul_39,209101,57049,35035,TRUE,p,FALSE,FALSE,Seoul_39
+21013,20246,gwanaggueul,abroad,0,0,1,0,Seoul_39,765,210,160,FALSE,d,TRUE,FALSE,Seoul_39
+23188,20246,yongsangu,cheongpadongjei5tu,1,0,0,0,Seoul_4,201645,75556,40653,FALSE,p,FALSE,FALSE,Seoul_4
+23225,20246,yongsangu,prevote_in,0,1,0,0,Seoul_4,201645,57689,23045,TRUE,p,FALSE,FALSE,Seoul_4
+23164,20246,yongsangu,abroad,0,0,1,0,Seoul_4,1588,398,193,FALSE,d,TRUE,FALSE,Seoul_4
+22366,20246,seochogugab,bangbaebondongjei2tu,1,0,0,0,Seoul_40,161173,70663,48643,FALSE,p,FALSE,FALSE,Seoul_40
+22364,20246,seochogugab,prevote_in,0,1,0,0,Seoul_40,161173,45395,24059,TRUE,p,FALSE,FALSE,Seoul_40
+22317,20246,seochogugab,abroad,0,0,1,0,Seoul_40,1634,377,189,FALSE,d,TRUE,FALSE,Seoul_40
+22427,20246,seochogueul,bangbae2dongjei5tu,1,0,0,0,Seoul_41,194229,83535,49768,FALSE,p,FALSE,FALSE,Seoul_41
+22458,20246,seochogueul,prevote_in,0,1,0,0,Seoul_41,194229,54756,24463,TRUE,p,FALSE,FALSE,Seoul_41
+22390,20246,seochogueul,abroad,0,0,1,0,Seoul_41,1935,419,208,FALSE,d,TRUE,FALSE,Seoul_41
+20303,20246,gangnamgugab,yeogsam1dongjei7tu,1,0,0,0,Seoul_42,166051,66300,42121,FALSE,p,FALSE,FALSE,Seoul_42
+20257,20246,gangnamgugab,prevote_in,0,1,0,0,Seoul_42,166051,36655,18042,TRUE,p,FALSE,FALSE,Seoul_42
+20254,20246,gangnamgugab,abroad,0,0,1,0,Seoul_42,1486,323,161,FALSE,d,TRUE,FALSE,Seoul_42
+20393,20246,gangnamgueul,gaepo2dongjei1tu,1,0,0,0,Seoul_43,139229,60585,33871,FALSE,p,FALSE,FALSE,Seoul_43
+20432,20246,gangnamgueul,prevote_in,0,1,0,0,Seoul_43,139229,40781,17792,TRUE,p,FALSE,FALSE,Seoul_43
+20384,20246,gangnamgueul,abroad,0,0,1,0,Seoul_43,1101,230,96,FALSE,d,TRUE,FALSE,Seoul_43
+20345,20246,gangnamgubyeong,daechi2dongjei1tu,1,0,0,0,Seoul_44,149971,70216,49668,FALSE,p,FALSE,FALSE,Seoul_44
+20367,20246,gangnamgubyeong,prevote_in,0,1,0,0,Seoul_44,149971,37851,21047,TRUE,p,FALSE,FALSE,Seoul_44
+20322,20246,gangnamgubyeong,abroad,0,0,1,0,Seoul_44,1742,394,199,FALSE,d,TRUE,FALSE,Seoul_44
+22681,20246,songpagugab,jamsil6dongjei3tu,1,0,0,0,Seoul_45,158365,66201,37544,FALSE,p,FALSE,FALSE,Seoul_45
+22652,20246,songpagugab,prevote_in,0,1,0,0,Seoul_45,158365,47438,20648,TRUE,p,FALSE,FALSE,Seoul_45
+22623,20246,songpagugab,abroad,0,0,1,0,Seoul_45,1149,256,126,FALSE,d,TRUE,FALSE,Seoul_45
+22787,20246,songpagueul,samjeondongjei1tu,1,0,0,0,Seoul_46,198477,89077,49114,FALSE,p,FALSE,FALSE,Seoul_46
+22773,20246,songpagueul,prevote_out,0,1,0,0,Seoul_46,198477,53390,22793,TRUE,d,FALSE,FALSE,Seoul_46
+22774,20246,songpagueul,abroad,0,0,1,0,Seoul_46,1490,358,164,FALSE,d,TRUE,FALSE,Seoul_46
+22713,20246,songpagubyeong,macheon2dongjei1tu,1,0,0,0,Seoul_47,214423,91852,43564,FALSE,p,FALSE,FALSE,Seoul_47
+22712,20246,songpagubyeong,prevote_in,0,1,0,0,Seoul_47,214423,57953,35023,TRUE,p,FALSE,FALSE,Seoul_47
+22691,20246,songpagubyeong,abroad,0,0,1,0,Seoul_47,1224,298,202,FALSE,d,TRUE,FALSE,Seoul_47
+20486,20246,gangdonggugab,godeogjei1dongjei6tu,1,0,0,0,Seoul_48,220132,95517,44327,FALSE,p,FALSE,FALSE,Seoul_48
+20516,20246,gangdonggugab,prevote_in,0,1,0,0,Seoul_48,220132,60251,35860,TRUE,p,FALSE,FALSE,Seoul_48
+20448,20246,gangdonggugab,abroad,0,0,1,0,Seoul_48,1085,262,173,FALSE,d,TRUE,FALSE,Seoul_48
+20541,20246,gangdonggueul,cheonhojei1dongjei4tu,1,0,0,0,Seoul_49,164895,64930,32132,FALSE,p,FALSE,FALSE,Seoul_49
+20545,20246,gangdonggueul,prevote_in,0,1,0,0,Seoul_49,164895,43336,26895,TRUE,p,FALSE,FALSE,Seoul_49
+20534,20246,gangdonggueul,abroad,0,0,1,0,Seoul_49,715,222,146,FALSE,d,TRUE,FALSE,Seoul_49
+21111,20246,gwangjingugab,junggogjei3dongjei3tu,1,0,0,0,Seoul_5,155776,63861,30882,FALSE,p,FALSE,FALSE,Seoul_5
+21129,20246,gwangjingugab,prevote_in,0,1,0,0,Seoul_5,155776,41386,25578,TRUE,p,FALSE,FALSE,Seoul_5
+21092,20246,gwangjingugab,abroad,0,0,1,0,Seoul_5,783,205,146,FALSE,d,TRUE,FALSE,Seoul_5
+21172,20246,gwangjingueul,gueuijei3dongjei2tu,1,0,0,0,Seoul_6,151774,63278,28351,FALSE,p,FALSE,FALSE,Seoul_6
+21170,20246,gwangjingueul,prevote_in,0,1,0,0,Seoul_6,151774,44124,25719,TRUE,p,FALSE,FALSE,Seoul_6
+21160,20246,gwangjingueul,abroad,0,0,1,0,Seoul_6,752,214,140,FALSE,d,TRUE,FALSE,Seoul_6
+21814,20246,dongdaemungugab,hwigyeongjei1dongjei1tu,1,0,0,0,Seoul_7,148241,56800,26823,FALSE,p,FALSE,FALSE,Seoul_7
+21835,20246,dongdaemungugab,prevote_in,0,1,0,0,Seoul_7,148241,40780,24598,TRUE,p,FALSE,FALSE,Seoul_7
+21779,20246,dongdaemungugab,abroad,0,0,1,0,Seoul_7,741,187,127,FALSE,d,TRUE,FALSE,Seoul_7
+21882,20246,dongdaemungueul,dabsibrijei2dongjei5tu,1,0,0,0,Seoul_8,156414,65614,33038,FALSE,p,FALSE,FALSE,Seoul_8
+21851,20246,dongdaemungueul,prevote_in,0,1,0,0,Seoul_8,156414,35493,22095,TRUE,p,FALSE,FALSE,Seoul_8
+21848,20246,dongdaemungueul,abroad,0,0,1,0,Seoul_8,557,144,97,FALSE,d,TRUE,FALSE,Seoul_8
+23764,20246,jungranggugab,mangujei3dongjei3tu,1,0,0,0,Seoul_9,157956,55361,29578,FALSE,p,FALSE,FALSE,Seoul_9
+23712,20246,jungranggugab,prevote_in,0,1,0,0,Seoul_9,157956,40059,25512,TRUE,p,FALSE,FALSE,Seoul_9
+23709,20246,jungranggugab,abroad,0,0,1,0,Seoul_9,453,120,95,FALSE,d,TRUE,FALSE,Seoul_9
+24243,23840,junggu,seongandongjei1tu,1,0,0,0,Ulsan Metropolitan City_1,187973,79296,46862,FALSE,p,FALSE,FALSE,Ulsan Metropolitan City_1
+24248,23840,junggu,prevote_in,0,1,0,0,Ulsan Metropolitan City_1,187973,48936,22465,TRUE,p,FALSE,FALSE,Ulsan Metropolitan City_1
+24213,23840,junggu,abroad,0,0,1,0,Ulsan Metropolitan City_1,395,99,32,FALSE,d,TRUE,FALSE,Ulsan Metropolitan City_1
+23875,23840,namgugab,sinjeong4dongjei6tu,1,0,0,0,Ulsan Metropolitan City_2,147577,63778,37139,FALSE,p,FALSE,FALSE,Ulsan Metropolitan City_2
+23897,23840,namgugab,prevote_in,0,1,0,0,Ulsan Metropolitan City_2,147577,39583,18088,TRUE,p,FALSE,FALSE,Ulsan Metropolitan City_2
+23848,23840,namgugab,abroad,0,0,1,0,Ulsan Metropolitan City_2,419,90,25,FALSE,d,TRUE,FALSE,Ulsan Metropolitan City_2
+23954,23840,namgueul,seonamdongjei2tu,1,0,0,0,Ulsan Metropolitan City_3,126598,54346,33888,FALSE,p,FALSE,FALSE,Ulsan Metropolitan City_3
+23913,23840,namgueul,prevote_in,0,1,0,0,Ulsan Metropolitan City_3,126598,29272,15015,TRUE,p,FALSE,FALSE,Ulsan Metropolitan City_3
+23910,23840,namgueul,abroad,0,0,1,0,Ulsan Metropolitan City_3,274,49,27,FALSE,d,TRUE,FALSE,Ulsan Metropolitan City_3
+24003,23840,donggu,jeonha2dongjei2tu,1,0,0,0,Ulsan Metropolitan City_4,130157,52932,21703,FALSE,p,FALSE,FALSE,Ulsan Metropolitan City_4
+23983,23840,donggu,prevote_in,0,1,0,0,Ulsan Metropolitan City_4,130157,35243,12131,TRUE,p,FALSE,FALSE,Ulsan Metropolitan City_4
+23965,23840,donggu,abroad,0,0,1,0,Ulsan Metropolitan City_4,196,42,11,FALSE,d,TRUE,FALSE,Ulsan Metropolitan City_4
+24068,23840,buggu,nongso3dongjei5tu,1,0,0,0,Ulsan Metropolitan City_5,173315,74722,31709,FALSE,p,FALSE,FALSE,Ulsan Metropolitan City_5
+24099,23840,buggu,prevote_in,0,1,0,0,Ulsan Metropolitan City_5,173315,42197,22458,TRUE,p,FALSE,FALSE,Ulsan Metropolitan City_5
+24038,23840,buggu,abroad,0,0,1,0,Ulsan Metropolitan City_5,301,59,48,FALSE,d,TRUE,FALSE,Ulsan Metropolitan City_5
+24150,23840,uljugun,beomseoeubjei2tu,1,0,0,0,Ulsan Metropolitan City_6,185688,76150,43705,FALSE,p,FALSE,FALSE,Ulsan Metropolitan City_6
+24198,23840,uljugun,prevote_in,0,1,0,0,Ulsan Metropolitan City_6,185688,49485,22585,TRUE,p,FALSE,FALSE,Ulsan Metropolitan City_6
+24117,23840,uljugun,abroad,0,0,1,0,Ulsan Metropolitan City_6,395,82,24,FALSE,d,TRUE,FALSE,Ulsan Metropolitan City_6
